@@ -1,0 +1,6 @@
+Bug Report
+----------
+
+
+Source code crashes for unknown reasons for any input size.
+However it works if run again with same input.

@@ -9,6 +9,7 @@ ofstream prcs;
 int totalnodes;
 int n;
 
+// NODE STRUCTURE
 struct node
 {
        int number;
@@ -18,6 +19,7 @@ struct node
        struct edge *edges[4];
 }**nodes=0;
 
+// EDGE STRUCTURE
 struct edge
 {
        bool wall;
@@ -25,12 +27,15 @@ struct edge
        struct node *from;
 };
 
+// STACK ELEMENT
 struct stack
 {
        struct node *item;
        struct stack *next;
 }*top=0;
 
+
+// PUSHES NODE TO STACK
 void push(struct node *newnode)
 {
      struct stack *t=new stack[sizeof(stack)];
@@ -47,6 +52,7 @@ void push(struct node *newnode)
      }
 }
 
+// POPS A NODE FROM STACK
 struct node * pop()
 {
        struct node *temp=top->item;
@@ -54,7 +60,7 @@ struct node * pop()
        return temp;
 }
        
-/*ALLOCATING MEMORY FOR EVERY NODE*/
+// ALLOCATING MEMORY FOR EVERY NODE
 void create_nodes()
 {
      for(int i=0;i<totalnodes;i++)
@@ -70,7 +76,7 @@ void create_nodes()
      }
 }
 
-/*CREATES REQUIRED LINK BETWEEN ALL NODES*/
+// CREATES REQUIRED LINK BETWEEN ALL NODES
 void create_links()
 {
      int nodenumber;
@@ -177,13 +183,13 @@ void create_links()
      }
 }
 
-
+// CHECKS IF A DEADEND HAS BEEN REACHED
 bool check_deadend(struct node *newnode)
 {
-     for(int i=0;i<4;i++)
+     for(int i=0;i<4;i++)								//CHECKS IF THE 'TO' NODE IN EACH DIRECTION IS VISITED
      {
              if(newnode->edges[i]->to!=0)
-             if( newnode->edges[i]->to->visited==false  )
+             if(newnode->edges[i]->to->visited==false)
              {
                  return false;
              }
@@ -191,41 +197,43 @@ bool check_deadend(struct node *newnode)
      return true;
 }
 
+
+// CREATION OF THE MAZE
 void create_maze()
 {
      int c;
      bool deadend;
-     srand (time(NULL));
-     struct node *exit=nodes[0],*curr,*next;
+     srand (time(NULL));								//SETTING UP THE RANDOM FUNCTION
+     struct node *exit=nodes[0],*curr,*next;			//SETTING THE START NODE AS THE END POINT
      int k=1;
      nodes[0]->visited=true;
      nodes[0]->edges[1]->wall=false;
      nodes[0]->edges[1]->to->edges[3]->wall=false;
-     push(nodes[0]);
-     curr=nodes[0]->edges[k]->to;
-     while(curr!=exit)
+     push(nodes[0]);									
+     curr=nodes[0]->edges[k]->to;						//DFS STARTS FROM THE SECOND NODE
+     while(curr!=exit)									
      {
                       curr->visited=true;
-                      prcs<<"\ncurr="<<curr->number<<endl;
+                      prcs<<"\ncurr="<<curr->number<<endl; 	//WRITE CURR NODE TO PROCESS.txt FILE
                       switch(curr->boundary_case)
                       {
-                                                 case 0:
-                                                      deadend=check_deadend(curr);
+                                                 case 0:							//NODES IN THE FIRST ROW
+                                                      deadend=check_deadend(curr);	//CHECK IF A DEADEND HAS BEEN REACHED
                                                       if( !deadend)
                                                       {
-                                                          c=0;
+                                                          c=0;						//kill switch variable
                                                           do
                                                           {
                                                             c++;
-                                                            k=rand()%3+1;
+                                                            k=rand()%3+1;			//CHOSE A RANDOM EDGE BASED ON THE INDEX OF EDGES ARRAY
                                                             next=curr->edges[k]->to;
                                                             if(next==0)
                                                             {
                                                                        struct node *next=new node[sizeof(node)];
                                                                        next->visited=true;
                                                             }
-                                                            if(c>10)
-                                                            for(int i=0;i<4;i++)
+                                                            if(c>10)				//KILL SWITCH IN CASE k keeps GETTING AN EDGE THAT HAS BEEN VISITED
+                                                            for(int i=0;i<4;i++)	//CHOOSES THE NEXT UNVISITED EDGE IN CLOCKWISE POSITION
                                                             {
                                                                     if( curr->edges[i]->to->visited==false)
                                                                     {
@@ -236,11 +244,14 @@ void create_maze()
                                                             }
                                                           }while(next->visited==true);
                                                           push(curr);
-                                                          curr->edges[k]->wall=false;
-                                                          if( k==1)
+                                                          curr->edges[k]->wall=false;	//REMOVE WALL BETWEEN CURRENT AND NEXT NODE 'TO'->'FROM'
+                                                          if( k==1)						//REMOVE WALL BETWEEN NEXT NODE AND CURRENT NODE 'TO'<-'FROM'
                                                           {
                                                               curr->edges[k]->to->edges[3]->wall=false;
-                                                              prcs<<"k="<<k<<endl;
+
+                                                              //WRITE TO PROCESS FILE THE CHOSEN EDGE INDEX, NEXT NODE NUMBER AND PRESENT NODE NUMBER
+
+                                                              prcs<<"k="<<k<<endl;				
                                                               prcs<<"next="<<curr->edges[k]->to->number<<endl;
                                                               prcs<<"from="<<curr->edges[k]->to->edges[3]->to->number<<endl;
                                                           }    
@@ -261,9 +272,9 @@ void create_maze()
                                                            curr=next;
                                                       }
                                                       else
-                                                      curr=pop();
+                                                      curr=pop();		//IF A DEADEND IS REACHED POP NODE FROM STACK
                                                       break;
-                                                 case 1:
+                                                 case 1:								//NODES IN THE LAST COLUMN
                                                       deadend=check_deadend(curr);
                                                       if( !deadend)
                                                       {
@@ -318,7 +329,7 @@ void create_maze()
                                                       else
                                                       curr=pop();
                                                       break;
-                                                 case 2:
+                                                 case 2:									//NODES IN THE LAST ROW
                                                       deadend=check_deadend(curr);
                                                       if( !deadend)
                                                       {
@@ -373,7 +384,7 @@ void create_maze()
                                                       else
                                                       curr=pop();
                                                       break;
-                                                 case 3:
+                                                 case 3:									//NODES IN THE FIRST COLUMN
                                                       deadend=check_deadend(curr);
                                                       if( !deadend)
                                                       {
@@ -427,7 +438,7 @@ void create_maze()
                                                       else
                                                       curr=pop();
                                                       break;
-                                                 case 4:
+                                                 case 4:							//TOP LEFTMOST NODE
                                                       deadend=check_deadend(curr);
                                                       if( !deadend)
                                                       {
@@ -474,7 +485,7 @@ void create_maze()
                                                       else
                                                       curr=pop();
                                                       break;
-                                                 case 5:
+                                                 case 5:						//TOP RIGHTMOST NODE
                                                       deadend=check_deadend(curr);
                                                       if( !deadend)
                                                       {
@@ -521,7 +532,7 @@ void create_maze()
                                                       else
                                                       curr=pop();
                                                       break;
-                                                 case 6:
+                                                 case 6:								//BOTTOM RIGHTMOST NODE
                                                       deadend=check_deadend(curr);
                                                       if( !deadend)
                                                       {
@@ -569,7 +580,7 @@ void create_maze()
                                                       else
                                                       curr=pop();
                                                       break;
-                                                 case 7:
+                                                 case 7:								//BOTTOM LEFTMOST NODE
                                                       deadend=check_deadend(curr);
                                                       if( !deadend)
                                                       {
@@ -616,7 +627,7 @@ void create_maze()
                                                       else
                                                       curr=pop();
                                                       break;
-                                              default:
+                                              default:										//INNER NODES
                                                       deadend=check_deadend(curr);
                                                       if( !deadend)
                                                       {
@@ -679,15 +690,16 @@ void create_maze()
                                                       curr=pop();
                                                       break;
                       }
-                      //system("pause");
      }
 }
-                    
+       
+
+//  GENERATES THE COMMAND.txt FILE FOR GNUPLOT
 void generate_plot()
 {
      ofstream file;
-     file.open("commands.txt");
-     file<<"set xrange[0:"<<n+1<<"]\n";
+     file.open("commands.txt");						
+     file<<"set xrange[0:"<<n+1<<"]\n";											
      file<<"set yrange[0:"<<n+1<<"]\n";
      file<<"set arrow from 1,2 to 1,"<<n<<" nohead\n";
      file<<"set arrow from 1,"<<n+1<<" to "<<n+1<<","<<n+1<<" nohead\n";
@@ -719,8 +731,6 @@ void generate_plot()
                                                  
 int main()
 {
-    cout<<"node size : "<<sizeof(struct node)<<endl;
-    cout<<"edge size : "<<sizeof(struct edge)<<endl;
     
     cout<<"Enter maze size : ";
     cin>>n;
@@ -763,7 +773,7 @@ int main()
     generate_plot();
     cout<<"COMMANDS MADE\n";
     
-    system("pause");
+    // system("pause");
     return 0;
     
 }
