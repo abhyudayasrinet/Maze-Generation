@@ -24,3 +24,7 @@ process.txt
 -----------
 Information to show how DFS occurs in the code and the current node at every stage of the DFS
 Sample output file generated for creating a maze of size 50.
+
+maze.jpg
+--------
+Picture of sample 50x50 maze
