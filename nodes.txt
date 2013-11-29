@@ -1,0 +1,10002 @@
+
+node 1
+wall 0
+wall 2
+wall 3
+
+node 2
+wall 0
+wall 2
+
+node 3
+wall 0
+wall 1
+
+node 4
+wall 0
+wall 3
+
+node 5
+wall 0
+wall 2
+
+node 6
+wall 0
+
+node 7
+wall 0
+wall 2
+
+node 8
+wall 0
+wall 2
+
+node 9
+wall 0
+wall 2
+
+node 10
+wall 0
+wall 2
+
+node 11
+wall 0
+wall 1
+
+node 12
+wall 0
+wall 3
+
+node 13
+wall 0
+wall 2
+
+node 14
+wall 0
+wall 1
+
+node 15
+wall 0
+wall 3
+
+node 16
+wall 0
+wall 2
+
+node 17
+wall 0
+
+node 18
+wall 0
+
+node 19
+wall 0
+wall 1
+wall 2
+
+node 20
+wall 0
+wall 3
+
+node 21
+wall 0
+
+node 22
+wall 0
+wall 2
+
+node 23
+wall 0
+wall 2
+
+node 24
+wall 0
+wall 1
+
+node 25
+wall 0
+wall 3
+
+node 26
+wall 0
+wall 2
+
+node 27
+wall 0
+
+node 28
+wall 0
+wall 2
+
+node 29
+wall 0
+wall 2
+
+node 30
+wall 0
+wall 1
+
+node 31
+wall 0
+wall 2
+wall 3
+
+node 32
+wall 0
+wall 2
+
+node 33
+wall 0
+
+node 34
+wall 0
+wall 1
+
+node 35
+wall 0
+wall 3
+
+node 36
+wall 0
+wall 1
+
+node 37
+wall 0
+wall 3
+
+node 38
+wall 0
+wall 1
+
+node 39
+wall 0
+wall 3
+
+node 40
+wall 0
+
+node 41
+wall 0
+wall 2
+
+node 42
+wall 0
+wall 1
+
+node 43
+wall 0
+wall 2
+wall 3
+
+node 44
+wall 0
+wall 1
+
+node 45
+wall 0
+wall 3
+
+node 46
+wall 0
+wall 2
+
+node 47
+wall 0
+
+node 48
+wall 0
+wall 1
+wall 2
+
+node 49
+wall 0
+wall 3
+
+node 50
+wall 0
+wall 1
+
+node 51
+wall 0
+wall 3
+
+node 52
+wall 0
+wall 1
+wall 2
+
+node 53
+wall 1
+wall 3
+
+node 54
+wall 2
+wall 3
+
+node 55
+wall 0
+wall 1
+wall 2
+
+node 56
+wall 1
+wall 3
+
+node 57
+wall 0
+wall 3
+
+node 58
+wall 0
+wall 2
+
+node 59
+wall 0
+wall 1
+
+node 60
+wall 0
+wall 3
+
+node 61
+wall 1
+wall 2
+
+node 62
+wall 1
+wall 3
+
+node 63
+wall 0
+wall 3
+
+node 64
+wall 1
+
+node 65
+wall 3
+
+node 66
+wall 0
+wall 1
+wall 2
+
+node 67
+wall 1
+wall 3
+
+node 68
+wall 1
+wall 2
+wall 3
+
+node 69
+wall 0
+wall 3
+
+node 70
+wall 1
+wall 2
+
+node 71
+wall 2
+wall 3
+
+node 72
+wall 0
+wall 2
+
+node 73
+wall 0
+wall 1
+
+node 74
+wall 1
+wall 2
+wall 3
+
+node 75
+wall 2
+wall 3
+
+node 76
+wall 0
+wall 1
+
+node 77
+wall 1
+wall 3
+
+node 78
+wall 0
+wall 2
+wall 3
+
+node 79
+wall 0
+wall 2
+
+node 80
+wall 2
+
+node 81
+wall 0
+wall 2
+
+node 82
+wall 0
+wall 2
+
+node 83
+wall 1
+wall 2
+
+node 84
+wall 1
+wall 3
+
+node 85
+wall 1
+wall 3
+
+node 86
+wall 2
+wall 3
+
+node 87
+wall 1
+wall 2
+
+node 88
+wall 2
+wall 3
+
+node 89
+wall 1
+wall 2
+
+node 90
+wall 1
+wall 3
+
+node 91
+wall 0
+wall 2
+wall 3
+
+node 92
+wall 2
+
+node 93
+wall 0
+wall 1
+
+node 94
+wall 2
+wall 3
+
+node 95
+wall 1
+wall 2
+
+node 96
+wall 0
+wall 3
+
+node 97
+wall 1
+wall 2
+
+node 98
+wall 0
+wall 3
+
+node 99
+wall 1
+wall 2
+
+node 100
+wall 1
+wall 3
+
+node 101
+wall 2
+wall 3
+
+node 102
+wall 0
+wall 1
+
+node 103
+wall 2
+wall 3
+
+node 104
+wall 0
+wall 2
+
+node 105
+wall 0
+wall 2
+
+node 106
+wall 1
+wall 2
+
+node 107
+wall 2
+wall 3
+
+node 108
+wall 0
+wall 1
+wall 2
+
+node 109
+wall 1
+wall 3
+
+node 110
+wall 2
+wall 3
+
+node 111
+wall 0
+wall 1
+
+node 112
+wall 1
+wall 2
+wall 3
+
+node 113
+wall 1
+wall 3
+
+node 114
+wall 1
+wall 2
+wall 3
+
+node 115
+wall 1
+wall 3
+
+node 116
+wall 0
+wall 3
+
+node 117
+wall 1
+
+node 118
+wall 0
+wall 3
+
+node 119
+wall 1
+wall 2
+
+node 120
+wall 0
+wall 3
+
+node 121
+wall 0
+
+node 122
+wall 0
+wall 1
+
+node 123
+wall 2
+wall 3
+
+node 124
+wall 0
+wall 2
+
+node 125
+wall 0
+wall 2
+
+node 126
+wall 1
+wall 2
+
+node 127
+wall 2
+wall 3
+
+node 128
+wall 0
+wall 2
+
+node 129
+wall 0
+wall 1
+
+node 130
+wall 0
+wall 2
+wall 3
+
+node 131
+wall 0
+wall 2
+
+node 132
+wall 0
+
+node 133
+wall 0
+wall 1
+
+node 134
+wall 1
+wall 3
+
+node 135
+wall 2
+wall 3
+
+node 136
+wall 0
+wall 2
+
+node 137
+wall 0
+wall 2
+
+node 138
+wall 0
+wall 1
+
+node 139
+wall 0
+wall 1
+wall 3
+
+node 140
+wall 2
+wall 3
+
+node 141
+wall 0
+wall 1
+
+node 142
+wall 0
+wall 1
+wall 3
+
+node 143
+wall 2
+wall 3
+
+node 144
+wall 0
+wall 2
+
+node 145
+wall 0
+wall 1
+
+node 146
+wall 2
+wall 3
+
+node 147
+wall 0
+wall 1
+
+node 148
+wall 2
+wall 3
+
+node 149
+wall 0
+wall 1
+
+node 150
+wall 1
+wall 3
+
+node 151
+wall 0
+wall 3
+
+node 152
+wall 2
+
+node 153
+wall 0
+wall 1
+wall 2
+
+node 154
+wall 0
+wall 3
+
+node 155
+wall 0
+wall 2
+
+node 156
+wall 0
+
+node 157
+wall 0
+wall 2
+
+node 158
+wall 0
+wall 1
+
+node 159
+wall 3
+
+node 160
+wall 0
+wall 1
+wall 2
+
+node 161
+wall 2
+wall 3
+
+node 162
+wall 0
+wall 1
+
+node 163
+wall 3
+
+node 164
+wall 0
+wall 2
+
+node 165
+wall 1
+wall 2
+
+node 166
+wall 1
+wall 3
+
+node 167
+wall 1
+wall 2
+wall 3
+
+node 168
+wall 2
+wall 3
+
+node 169
+wall 0
+wall 1
+
+node 170
+wall 1
+wall 2
+wall 3
+
+node 171
+wall 1
+wall 3
+
+node 172
+wall 2
+wall 3
+
+node 173
+wall 0
+wall 1
+
+node 174
+wall 0
+wall 2
+wall 3
+
+node 175
+wall 0
+wall 2
+
+node 176
+wall 0
+
+node 177
+wall 0
+wall 1
+
+node 178
+wall 0
+wall 1
+wall 3
+
+node 179
+wall 2
+wall 3
+
+node 180
+wall 0
+wall 2
+
+node 181
+wall 0
+wall 1
+
+node 182
+wall 1
+wall 3
+
+node 183
+wall 2
+wall 3
+
+node 184
+wall 1
+wall 2
+
+node 185
+wall 0
+wall 3
+
+node 186
+wall 0
+wall 1
+
+node 187
+wall 0
+wall 2
+wall 3
+
+node 188
+wall 2
+
+node 189
+wall 1
+
+node 190
+wall 0
+wall 3
+
+node 191
+wall 1
+wall 2
+
+node 192
+wall 1
+wall 3
+
+node 193
+wall 0
+wall 3
+
+node 194
+wall 0
+wall 2
+
+node 195
+wall 1
+wall 2
+
+node 196
+wall 0
+wall 3
+
+node 197
+wall 1
+wall 2
+
+node 198
+wall 0
+wall 3
+
+node 199
+wall 1
+wall 2
+
+node 200
+wall 1
+wall 3
+
+node 201
+wall 3
+
+node 202
+wall 0
+wall 2
+
+node 203
+wall 0
+wall 2
+
+node 204
+wall 2
+
+node 205
+wall 0
+wall 1
+
+node 206
+wall 2
+wall 3
+
+node 207
+wall 0
+wall 1
+
+node 208
+wall 1
+wall 3
+
+node 209
+wall 1
+wall 3
+
+node 210
+wall 0
+wall 3
+
+node 211
+wall 0
+wall 1
+
+node 212
+wall 1
+wall 3
+
+node 213
+wall 1
+wall 3
+
+node 214
+wall 0
+wall 3
+
+node 215
+wall 0
+wall 1
+
+node 216
+wall 2
+wall 3
+
+node 217
+wall 0
+
+node 218
+wall 0
+wall 1
+wall 2
+
+node 219
+wall 1
+wall 3
+
+node 220
+wall 0
+wall 3
+
+node 221
+wall 1
+wall 2
+
+node 222
+wall 0
+wall 1
+wall 3
+
+node 223
+wall 2
+wall 3
+
+node 224
+wall 0
+wall 2
+
+node 225
+wall 0
+wall 1
+
+node 226
+wall 1
+wall 3
+
+node 227
+wall 2
+wall 3
+
+node 228
+wall 2
+
+node 229
+wall 0
+wall 2
+
+node 230
+wall 0
+wall 1
+
+node 231
+wall 1
+wall 3
+
+node 232
+wall 2
+wall 3
+
+node 233
+wall 0
+
+node 234
+wall 0
+wall 2
+
+node 235
+wall 1
+wall 2
+
+node 236
+wall 2
+wall 3
+
+node 237
+wall 0
+wall 1
+
+node 238
+wall 0
+wall 2
+wall 3
+
+node 239
+wall 1
+
+node 240
+wall 1
+wall 3
+
+node 241
+wall 0
+wall 2
+wall 3
+
+node 242
+wall 2
+
+node 243
+wall 2
+
+node 244
+wall 0
+wall 1
+
+node 245
+wall 0
+wall 3
+
+node 246
+wall 2
+
+node 247
+wall 0
+wall 2
+
+node 248
+wall 1
+wall 2
+
+node 249
+wall 0
+wall 1
+wall 3
+
+node 250
+wall 1
+wall 3
+
+node 251
+wall 1
+wall 3
+
+node 252
+wall 0
+wall 3
+
+node 253
+wall 0
+wall 1
+
+node 254
+wall 0
+wall 2
+wall 3
+
+node 255
+wall 1
+wall 2
+
+node 256
+wall 0
+wall 3
+
+node 257
+wall 1
+wall 2
+
+node 258
+wall 1
+wall 3
+
+node 259
+wall 2
+wall 3
+
+node 260
+wall 1
+wall 2
+
+node 261
+wall 1
+wall 3
+
+node 262
+wall 1
+wall 3
+
+node 263
+wall 2
+wall 3
+
+node 264
+wall 1
+wall 2
+
+node 265
+wall 3
+
+node 266
+wall 0
+wall 1
+wall 2
+
+node 267
+wall 2
+wall 3
+
+node 268
+wall 0
+
+node 269
+wall 1
+wall 2
+
+node 270
+wall 2
+wall 3
+
+node 271
+wall 0
+wall 1
+
+node 272
+wall 3
+
+node 273
+wall 0
+
+node 274
+wall 0
+wall 1
+
+node 275
+wall 1
+wall 3
+
+node 276
+wall 2
+wall 3
+
+node 277
+wall 0
+wall 1
+
+node 278
+wall 0
+wall 1
+wall 3
+
+node 279
+wall 0
+wall 3
+
+node 280
+wall 1
+wall 2
+
+node 281
+wall 1
+wall 3
+
+node 282
+wall 0
+wall 1
+wall 3
+
+node 283
+wall 1
+wall 3
+
+node 284
+wall 0
+wall 3
+
+node 285
+wall 0
+wall 1
+
+node 286
+wall 0
+wall 2
+wall 3
+
+node 287
+wall 2
+
+node 288
+wall 0
+wall 1
+
+node 289
+wall 1
+wall 2
+wall 3
+
+node 290
+wall 2
+wall 3
+
+node 291
+wall 0
+wall 2
+
+node 292
+wall 0
+wall 1
+
+node 293
+wall 0
+wall 1
+wall 3
+
+node 294
+wall 1
+wall 3
+
+node 295
+wall 1
+wall 3
+
+node 296
+wall 0
+wall 3
+
+node 297
+wall 0
+wall 1
+
+node 298
+wall 0
+wall 3
+
+node 299
+wall 1
+wall 2
+
+node 300
+wall 1
+wall 3
+
+node 301
+wall 1
+wall 2
+wall 3
+
+node 302
+wall 1
+wall 3
+
+node 303
+wall 2
+wall 3
+
+node 304
+wall 0
+wall 2
+
+node 305
+wall 0
+wall 1
+
+node 306
+wall 1
+wall 3
+
+node 307
+wall 0
+wall 3
+
+node 308
+wall 1
+wall 2
+
+node 309
+wall 0
+wall 3
+
+node 310
+wall 0
+wall 1
+
+node 311
+wall 1
+wall 3
+
+node 312
+wall 2
+wall 3
+
+node 313
+wall 0
+wall 2
+
+node 314
+wall 0
+wall 1
+
+node 315
+wall 1
+wall 3
+
+node 316
+wall 0
+wall 3
+
+node 317
+wall 0
+wall 1
+
+node 318
+wall 2
+wall 3
+
+node 319
+wall 0
+wall 2
+
+node 320
+wall 0
+wall 2
+
+node 321
+wall 1
+wall 2
+
+node 322
+wall 1
+wall 2
+wall 3
+
+node 323
+wall 1
+wall 3
+
+node 324
+wall 1
+wall 3
+
+node 325
+wall 2
+wall 3
+
+node 326
+wall 0
+wall 2
+
+node 327
+wall 1
+wall 2
+
+node 328
+wall 3
+
+node 329
+wall 1
+wall 2
+
+node 330
+wall 0
+wall 1
+wall 3
+
+node 331
+wall 1
+wall 3
+
+node 332
+wall 2
+wall 3
+
+node 333
+wall 1
+wall 2
+
+node 334
+wall 1
+wall 3
+
+node 335
+wall 2
+wall 3
+
+node 336
+wall 0
+wall 2
+
+node 337
+wall 0
+wall 1
+
+node 338
+wall 2
+wall 3
+
+node 339
+wall 0
+wall 2
+
+node 340
+wall 0
+wall 2
+
+node 341
+wall 0
+wall 2
+
+node 342
+wall 1
+wall 2
+
+node 343
+wall 3
+
+node 344
+wall 1
+wall 2
+
+node 345
+wall 1
+wall 3
+
+node 346
+wall 1
+wall 3
+
+node 347
+wall 2
+wall 3
+
+node 348
+wall 1
+
+node 349
+wall 0
+wall 3
+
+node 350
+wall 1
+wall 2
+
+node 351
+wall 0
+wall 3
+
+node 352
+wall 1
+wall 2
+
+node 353
+wall 0
+wall 3
+
+node 354
+wall 0
+wall 1
+wall 2
+
+node 355
+wall 2
+wall 3
+
+node 356
+wall 1
+wall 2
+
+node 357
+wall 2
+wall 3
+
+node 358
+wall 0
+wall 1
+
+node 359
+wall 1
+wall 3
+
+node 360
+wall 2
+wall 3
+
+node 361
+wall 1
+
+node 362
+wall 0
+wall 3
+
+node 363
+wall 0
+wall 2
+
+node 364
+wall 1
+wall 2
+
+node 365
+wall 1
+wall 2
+wall 3
+
+node 366
+wall 1
+wall 3
+
+node 367
+wall 2
+wall 3
+
+node 368
+wall 0
+wall 2
+
+node 369
+wall 0
+wall 1
+
+node 370
+wall 0
+wall 2
+wall 3
+
+node 371
+wall 0
+
+node 372
+wall 0
+
+node 373
+wall 1
+wall 2
+
+node 374
+wall 2
+wall 3
+
+node 375
+wall 0
+
+node 376
+wall 0
+wall 1
+wall 2
+
+node 377
+wall 0
+wall 3
+
+node 378
+wall 2
+
+node 379
+wall 0
+wall 2
+
+node 380
+wall 1
+
+node 381
+wall 2
+wall 3
+
+node 382
+wall 0
+wall 2
+
+node 383
+wall 0
+wall 2
+
+node 384
+wall 1
+wall 2
+
+node 385
+wall 0
+wall 2
+wall 3
+
+node 386
+wall 0
+wall 1
+
+node 387
+wall 1
+wall 3
+
+node 388
+wall 0
+wall 3
+
+node 389
+wall 0
+wall 2
+
+node 390
+wall 0
+wall 2
+
+node 391
+wall 0
+wall 2
+
+node 392
+wall 0
+wall 1
+
+node 393
+wall 1
+wall 3
+
+node 394
+wall 0
+wall 2
+wall 3
+
+node 395
+
+node 396
+wall 1
+wall 2
+
+node 397
+wall 0
+wall 2
+wall 3
+
+node 398
+wall 1
+
+node 399
+wall 2
+wall 3
+
+node 400
+wall 0
+wall 1
+
+node 401
+wall 1
+wall 3
+
+node 402
+wall 0
+wall 2
+wall 3
+
+node 403
+wall 2
+
+node 404
+wall 0
+wall 2
+
+node 405
+wall 0
+wall 2
+
+node 406
+wall 0
+
+node 407
+wall 0
+wall 1
+
+node 408
+wall 1
+wall 3
+
+node 409
+wall 1
+wall 3
+
+node 410
+wall 0
+wall 1
+wall 3
+
+node 411
+wall 1
+wall 3
+
+node 412
+wall 1
+wall 3
+
+node 413
+wall 0
+wall 2
+wall 3
+
+node 414
+wall 0
+wall 2
+
+node 415
+wall 0
+
+node 416
+wall 1
+wall 2
+
+node 417
+wall 0
+wall 3
+
+node 418
+wall 0
+wall 1
+
+node 419
+wall 2
+wall 3
+
+node 420
+wall 0
+wall 1
+
+node 421
+wall 1
+wall 2
+wall 3
+
+node 422
+wall 3
+
+node 423
+wall 0
+wall 2
+
+node 424
+wall 0
+wall 1
+
+node 425
+wall 1
+wall 3
+
+node 426
+wall 0
+wall 3
+
+node 427
+wall 1
+wall 2
+
+node 428
+wall 0
+wall 3
+
+node 429
+wall 0
+wall 1
+
+node 430
+wall 2
+wall 3
+
+node 431
+wall 0
+wall 2
+
+node 432
+wall 0
+
+node 433
+wall 0
+wall 2
+
+node 434
+wall 0
+wall 2
+
+node 435
+wall 0
+wall 2
+
+node 436
+wall 1
+wall 2
+
+node 437
+wall 1
+wall 3
+
+node 438
+wall 1
+wall 3
+
+node 439
+wall 0
+wall 3
+
+node 440
+wall 0
+wall 1
+
+node 441
+wall 0
+wall 3
+
+node 442
+wall 1
+wall 2
+
+node 443
+wall 2
+wall 3
+
+node 444
+wall 0
+wall 1
+
+node 445
+wall 1
+wall 2
+wall 3
+
+node 446
+wall 0
+wall 3
+
+node 447
+wall 0
+wall 1
+
+node 448
+wall 3
+
+node 449
+wall 0
+wall 1
+wall 2
+
+node 450
+wall 1
+wall 3
+
+node 451
+wall 2
+wall 3
+
+node 452
+wall 0
+wall 1
+
+node 453
+wall 0
+wall 3
+
+node 454
+wall 0
+wall 2
+
+node 455
+wall 0
+wall 1
+
+node 456
+wall 1
+wall 3
+
+node 457
+wall 2
+wall 3
+
+node 458
+wall 2
+
+node 459
+wall 1
+wall 2
+
+node 460
+wall 3
+
+node 461
+wall 1
+wall 2
+
+node 462
+wall 2
+wall 3
+
+node 463
+wall 0
+wall 2
+
+node 464
+wall 0
+wall 2
+
+node 465
+wall 1
+wall 2
+
+node 466
+wall 0
+wall 3
+
+node 467
+wall 1
+wall 2
+
+node 468
+wall 1
+wall 3
+
+node 469
+wall 0
+wall 1
+wall 3
+
+node 470
+wall 2
+wall 3
+
+node 471
+wall 0
+wall 1
+
+node 472
+wall 1
+wall 2
+wall 3
+
+node 473
+wall 0
+wall 3
+
+node 474
+wall 1
+wall 2
+
+node 475
+wall 1
+wall 2
+wall 3
+
+node 476
+wall 1
+wall 3
+
+node 477
+wall 0
+wall 1
+wall 3
+
+node 478
+wall 1
+wall 3
+
+node 479
+wall 1
+wall 3
+
+node 480
+wall 0
+wall 2
+wall 3
+
+node 481
+wall 0
+wall 2
+
+node 482
+wall 1
+wall 2
+
+node 483
+wall 0
+wall 3
+
+node 484
+wall 0
+wall 2
+
+node 485
+wall 0
+wall 2
+
+node 486
+wall 0
+wall 2
+
+node 487
+wall 1
+wall 2
+
+node 488
+wall 1
+wall 3
+
+node 489
+wall 1
+wall 3
+
+node 490
+wall 2
+wall 3
+
+node 491
+wall 1
+wall 2
+
+node 492
+wall 0
+wall 3
+
+node 493
+wall 0
+wall 2
+
+node 494
+wall 1
+wall 2
+
+node 495
+wall 0
+wall 3
+
+node 496
+wall 1
+wall 2
+
+node 497
+wall 1
+wall 3
+
+node 498
+wall 1
+wall 2
+wall 3
+
+node 499
+wall 0
+wall 3
+
+node 500
+wall 1
+
+node 501
+wall 0
+wall 3
+
+node 502
+wall 1
+
+node 503
+wall 1
+wall 3
+
+node 504
+wall 0
+wall 1
+wall 3
+
+node 505
+wall 1
+wall 3
+
+node 506
+wall 1
+wall 3
+
+node 507
+wall 0
+wall 3
+
+node 508
+wall 0
+wall 1
+
+node 509
+wall 0
+wall 2
+wall 3
+
+node 510
+wall 2
+
+node 511
+wall 0
+wall 2
+
+node 512
+wall 0
+wall 2
+
+node 513
+wall 0
+wall 1
+
+node 514
+wall 0
+wall 2
+wall 3
+
+node 515
+wall 0
+
+node 516
+wall 2
+
+node 517
+wall 0
+wall 1
+
+node 518
+wall 2
+wall 3
+
+node 519
+wall 2
+
+node 520
+wall 0
+wall 1
+
+node 521
+wall 2
+wall 3
+
+node 522
+wall 0
+wall 1
+
+node 523
+wall 2
+wall 3
+
+node 524
+wall 0
+wall 2
+
+node 525
+wall 0
+wall 2
+
+node 526
+
+node 527
+wall 1
+wall 2
+
+node 528
+wall 1
+wall 3
+
+node 529
+wall 1
+wall 3
+
+node 530
+wall 0
+wall 3
+
+node 531
+wall 0
+wall 2
+
+node 532
+wall 0
+wall 2
+
+node 533
+wall 1
+
+node 534
+wall 0
+wall 2
+wall 3
+
+node 535
+wall 0
+wall 2
+
+node 536
+wall 0
+wall 2
+
+node 537
+wall 0
+
+node 538
+wall 1
+wall 2
+
+node 539
+wall 1
+wall 2
+wall 3
+
+node 540
+wall 0
+wall 3
+
+node 541
+wall 0
+wall 2
+
+node 542
+wall 1
+wall 2
+
+node 543
+wall 0
+wall 3
+
+node 544
+wall 0
+wall 2
+
+node 545
+wall 1
+wall 2
+
+node 546
+wall 0
+wall 2
+wall 3
+
+node 547
+wall 2
+
+node 548
+wall 0
+wall 1
+
+node 549
+wall 1
+wall 3
+
+node 550
+wall 1
+wall 3
+
+node 551
+wall 1
+wall 3
+
+node 552
+wall 1
+wall 2
+wall 3
+
+node 553
+wall 1
+wall 3
+
+node 554
+wall 1
+wall 3
+
+node 555
+wall 1
+wall 3
+
+node 556
+wall 1
+wall 3
+
+node 557
+wall 1
+wall 3
+
+node 558
+wall 2
+wall 3
+
+node 559
+wall 0
+wall 1
+
+node 560
+wall 0
+wall 3
+
+node 561
+wall 0
+wall 1
+
+node 562
+wall 0
+wall 1
+wall 3
+
+node 563
+wall 2
+wall 3
+
+node 564
+wall 0
+wall 1
+
+node 565
+wall 3
+
+node 566
+wall 0
+wall 1
+wall 2
+
+node 567
+wall 1
+wall 3
+
+node 568
+wall 0
+wall 3
+
+node 569
+wall 0
+wall 2
+
+node 570
+wall 1
+wall 2
+
+node 571
+wall 0
+wall 3
+
+node 572
+wall 1
+wall 2
+
+node 573
+wall 0
+wall 3
+
+node 574
+wall 0
+wall 2
+
+node 575
+wall 0
+wall 1
+
+node 576
+wall 1
+wall 2
+wall 3
+
+node 577
+wall 0
+wall 3
+
+node 578
+wall 1
+wall 2
+
+node 579
+wall 1
+wall 3
+
+node 580
+wall 1
+wall 3
+
+node 581
+wall 0
+wall 2
+wall 3
+
+node 582
+wall 0
+
+node 583
+wall 1
+wall 2
+
+node 584
+wall 0
+wall 3
+
+node 585
+wall 0
+wall 2
+
+node 586
+wall 0
+wall 1
+
+node 587
+wall 1
+wall 3
+
+node 588
+wall 0
+wall 3
+
+node 589
+wall 0
+wall 2
+
+node 590
+wall 1
+wall 2
+
+node 591
+wall 0
+wall 3
+
+node 592
+wall 0
+wall 1
+wall 2
+
+node 593
+wall 3
+
+node 594
+wall 0
+wall 1
+
+node 595
+wall 0
+wall 3
+
+node 596
+wall 0
+wall 1
+
+node 597
+wall 0
+wall 1
+wall 3
+
+node 598
+wall 1
+wall 3
+
+node 599
+wall 1
+wall 3
+
+node 600
+wall 1
+wall 3
+
+node 601
+wall 3
+
+node 602
+wall 0
+wall 2
+
+node 603
+wall 1
+wall 2
+
+node 604
+wall 1
+wall 3
+
+node 605
+wall 1
+wall 3
+
+node 606
+wall 1
+wall 2
+wall 3
+
+node 607
+wall 1
+wall 3
+
+node 608
+wall 0
+wall 1
+wall 3
+
+node 609
+wall 2
+wall 3
+
+node 610
+wall 1
+wall 2
+
+node 611
+wall 1
+wall 3
+
+node 612
+wall 1
+wall 3
+
+node 613
+wall 0
+wall 3
+
+node 614
+wall 1
+wall 2
+
+node 615
+wall 1
+wall 2
+wall 3
+
+node 616
+wall 0
+wall 3
+
+node 617
+wall 1
+wall 2
+
+node 618
+wall 1
+wall 3
+
+node 619
+wall 0
+wall 3
+
+node 620
+wall 0
+wall 1
+wall 2
+
+node 621
+wall 2
+wall 3
+
+node 622
+wall 0
+wall 1
+
+node 623
+wall 2
+wall 3
+
+node 624
+wall 0
+wall 1
+
+node 625
+wall 2
+wall 3
+
+node 626
+wall 0
+wall 2
+
+node 627
+wall 1
+wall 2
+
+node 628
+wall 0
+wall 3
+
+node 629
+wall 1
+wall 2
+
+node 630
+wall 3
+
+node 631
+wall 0
+wall 1
+
+node 632
+wall 1
+wall 2
+wall 3
+
+node 633
+wall 0
+wall 3
+
+node 634
+wall 1
+wall 2
+
+node 635
+wall 0
+wall 3
+
+node 636
+wall 1
+wall 2
+
+node 637
+wall 1
+wall 3
+
+node 638
+wall 2
+wall 3
+
+node 639
+wall 0
+wall 1
+
+node 640
+wall 0
+wall 2
+wall 3
+
+node 641
+wall 2
+
+node 642
+wall 0
+wall 2
+
+node 643
+wall 1
+wall 2
+
+node 644
+wall 2
+wall 3
+
+node 645
+wall 1
+wall 2
+
+node 646
+wall 1
+wall 3
+
+node 647
+wall 3
+
+node 648
+wall 1
+wall 2
+
+node 649
+wall 1
+wall 3
+
+node 650
+wall 1
+wall 3
+
+node 651
+wall 1
+wall 3
+
+node 652
+wall 0
+wall 3
+
+node 653
+wall 0
+
+node 654
+wall 1
+
+node 655
+wall 2
+wall 3
+
+node 656
+wall 0
+wall 1
+
+node 657
+wall 1
+wall 3
+
+node 658
+wall 2
+wall 3
+
+node 659
+wall 0
+wall 1
+
+node 660
+wall 0
+wall 3
+
+node 661
+wall 1
+wall 2
+
+node 662
+wall 3
+
+node 663
+wall 1
+wall 2
+
+node 664
+wall 0
+wall 2
+wall 3
+
+node 665
+wall 0
+
+node 666
+wall 1
+wall 2
+
+node 667
+wall 0
+wall 3
+
+node 668
+wall 1
+wall 2
+
+node 669
+wall 2
+wall 3
+
+node 670
+wall 0
+
+node 671
+wall 0
+wall 1
+wall 2
+
+node 672
+wall 1
+wall 3
+
+node 673
+wall 0
+wall 3
+
+node 674
+wall 1
+wall 2
+
+node 675
+wall 0
+wall 3
+
+node 676
+wall 0
+wall 1
+wall 2
+
+node 677
+wall 0
+wall 3
+
+node 678
+wall 1
+wall 2
+
+node 679
+wall 0
+wall 2
+wall 3
+
+node 680
+wall 1
+wall 2
+
+node 681
+wall 2
+wall 3
+
+node 682
+wall 0
+wall 1
+
+node 683
+wall 1
+wall 3
+
+node 684
+wall 0
+wall 1
+wall 3
+
+node 685
+wall 1
+wall 3
+
+node 686
+wall 0
+wall 2
+wall 3
+
+node 687
+wall 2
+
+node 688
+wall 0
+wall 1
+
+node 689
+wall 2
+wall 3
+
+node 690
+wall 0
+wall 2
+
+node 691
+wall 0
+wall 1
+
+node 692
+wall 0
+wall 3
+
+node 693
+wall 0
+wall 2
+
+node 694
+wall 0
+wall 2
+
+node 695
+wall 0
+wall 2
+
+node 696
+wall 1
+wall 2
+
+node 697
+wall 2
+wall 3
+
+node 698
+wall 0
+wall 2
+
+node 699
+wall 1
+wall 2
+
+node 700
+wall 1
+wall 3
+
+node 701
+wall 1
+wall 3
+
+node 702
+wall 1
+wall 2
+wall 3
+
+node 703
+wall 1
+wall 3
+
+node 704
+wall 1
+wall 2
+wall 3
+
+node 705
+wall 0
+wall 3
+
+node 706
+wall 1
+wall 2
+
+node 707
+wall 2
+wall 3
+
+node 708
+wall 0
+wall 1
+
+node 709
+wall 1
+wall 3
+
+node 710
+wall 1
+wall 3
+
+node 711
+wall 0
+wall 3
+
+node 712
+wall 1
+wall 2
+
+node 713
+wall 0
+wall 2
+wall 3
+
+node 714
+wall 0
+
+node 715
+wall 1
+wall 2
+
+node 716
+wall 0
+wall 1
+wall 3
+
+node 717
+wall 2
+wall 3
+
+node 718
+wall 0
+wall 2
+
+node 719
+wall 0
+wall 1
+
+node 720
+wall 3
+
+node 721
+wall 0
+wall 1
+
+node 722
+wall 1
+wall 3
+
+node 723
+wall 1
+wall 3
+
+node 724
+wall 0
+wall 3
+
+node 725
+wall 2
+
+node 726
+wall 0
+wall 2
+
+node 727
+wall 1
+wall 2
+
+node 728
+wall 0
+wall 3
+
+node 729
+wall 0
+wall 2
+
+node 730
+wall 0
+wall 2
+
+node 731
+wall 0
+wall 1
+
+node 732
+wall 2
+wall 3
+
+node 733
+wall 2
+
+node 734
+wall 1
+
+node 735
+wall 2
+wall 3
+
+node 736
+wall 0
+wall 2
+
+node 737
+wall 0
+wall 1
+
+node 738
+wall 2
+wall 3
+
+node 739
+wall 0
+wall 2
+
+node 740
+wall 0
+wall 2
+
+node 741
+wall 2
+
+node 742
+wall 1
+wall 2
+
+node 743
+wall 0
+wall 3
+
+node 744
+wall 0
+
+node 745
+wall 0
+wall 2
+
+node 746
+wall 0
+wall 1
+wall 2
+
+node 747
+wall 0
+wall 3
+
+node 748
+wall 0
+
+node 749
+wall 0
+wall 1
+wall 2
+
+node 750
+wall 1
+wall 3
+
+node 751
+wall 2
+wall 3
+
+node 752
+wall 0
+wall 1
+
+node 753
+wall 1
+wall 3
+
+node 754
+wall 0
+wall 3
+
+node 755
+wall 1
+wall 2
+
+node 756
+wall 0
+wall 3
+
+node 757
+wall 0
+wall 1
+
+node 758
+wall 2
+wall 3
+
+node 759
+wall 1
+
+node 760
+wall 1
+wall 3
+
+node 761
+wall 2
+wall 3
+
+node 762
+wall 0
+wall 2
+
+node 763
+wall 0
+wall 1
+
+node 764
+wall 2
+wall 3
+
+node 765
+wall 0
+wall 1
+
+node 766
+wall 3
+
+node 767
+wall 0
+wall 1
+wall 2
+
+node 768
+wall 0
+wall 3
+
+node 769
+wall 1
+wall 2
+
+node 770
+wall 1
+wall 2
+wall 3
+
+node 771
+wall 1
+wall 3
+
+node 772
+wall 2
+wall 3
+
+node 773
+wall 1
+wall 2
+
+node 774
+wall 1
+wall 3
+
+node 775
+wall 0
+wall 3
+
+node 776
+wall 0
+wall 1
+wall 2
+
+node 777
+wall 0
+wall 3
+
+node 778
+wall 2
+
+node 779
+wall 0
+wall 1
+
+node 780
+wall 0
+wall 2
+wall 3
+
+node 781
+wall 2
+
+node 782
+wall 0
+wall 2
+
+node 783
+wall 0
+wall 1
+
+node 784
+wall 1
+wall 2
+wall 3
+
+node 785
+wall 0
+wall 3
+
+node 786
+wall 0
+wall 1
+
+node 787
+wall 2
+wall 3
+
+node 788
+wall 0
+wall 2
+
+node 789
+wall 0
+wall 2
+
+node 790
+wall 0
+wall 1
+
+node 791
+wall 0
+wall 3
+
+node 792
+wall 0
+wall 2
+
+node 793
+wall 1
+wall 2
+
+node 794
+wall 2
+wall 3
+
+node 795
+wall 0
+wall 2
+
+node 796
+wall 0
+wall 1
+
+node 797
+wall 1
+wall 3
+
+node 798
+wall 1
+wall 3
+
+node 799
+wall 0
+wall 3
+
+node 800
+wall 1
+wall 2
+
+node 801
+wall 0
+wall 1
+wall 3
+
+node 802
+wall 1
+wall 3
+
+node 803
+wall 1
+wall 3
+
+node 804
+wall 2
+wall 3
+
+node 805
+wall 0
+wall 2
+
+node 806
+wall 1
+wall 2
+
+node 807
+wall 2
+wall 3
+
+node 808
+wall 0
+wall 2
+
+node 809
+wall 1
+wall 2
+
+node 810
+wall 2
+wall 3
+
+node 811
+wall 0
+wall 1
+
+node 812
+wall 0
+wall 2
+wall 3
+
+node 813
+wall 2
+
+node 814
+wall 0
+wall 2
+
+node 815
+wall 1
+wall 2
+
+node 816
+wall 3
+
+node 817
+wall 0
+wall 2
+
+node 818
+wall 2
+
+node 819
+wall 0
+wall 2
+
+node 820
+wall 0
+wall 2
+
+node 821
+wall 1
+
+node 822
+wall 0
+wall 3
+
+node 823
+wall 0
+wall 1
+
+node 824
+wall 1
+wall 3
+
+node 825
+wall 3
+
+node 826
+wall 0
+wall 2
+
+node 827
+wall 1
+wall 2
+
+node 828
+wall 0
+wall 1
+wall 3
+
+node 829
+wall 2
+wall 3
+
+node 830
+wall 0
+wall 2
+
+node 831
+wall 0
+wall 2
+
+node 832
+wall 0
+wall 1
+
+node 833
+wall 2
+wall 3
+
+node 834
+wall 0
+wall 2
+
+node 835
+wall 1
+wall 2
+
+node 836
+wall 2
+wall 3
+
+node 837
+wall 0
+wall 2
+
+node 838
+wall 0
+wall 2
+
+node 839
+wall 0
+wall 2
+
+node 840
+wall 1
+wall 2
+
+node 841
+wall 2
+wall 3
+
+node 842
+wall 0
+wall 1
+
+node 843
+wall 0
+wall 2
+wall 3
+
+node 844
+wall 0
+
+node 845
+wall 0
+wall 1
+wall 2
+
+node 846
+wall 1
+wall 3
+
+node 847
+wall 1
+wall 3
+
+node 848
+wall 2
+wall 3
+
+node 849
+wall 1
+wall 2
+
+node 850
+wall 0
+wall 1
+wall 3
+
+node 851
+wall 3
+
+node 852
+wall 1
+wall 2
+
+node 853
+wall 1
+wall 3
+
+node 854
+wall 0
+wall 3
+
+node 855
+wall 0
+
+node 856
+wall 0
+wall 1
+
+node 857
+wall 0
+wall 3
+
+node 858
+wall 0
+wall 2
+
+node 859
+wall 0
+wall 2
+
+node 860
+wall 0
+wall 1
+
+node 861
+wall 2
+wall 3
+
+node 862
+wall 0
+wall 2
+
+node 863
+wall 0
+wall 1
+
+node 864
+wall 0
+wall 2
+wall 3
+
+node 865
+wall 0
+
+node 866
+wall 1
+wall 2
+
+node 867
+wall 0
+wall 3
+
+node 868
+wall 0
+wall 2
+
+node 869
+wall 0
+wall 2
+
+node 870
+wall 0
+wall 1
+
+node 871
+wall 1
+wall 2
+wall 3
+
+node 872
+wall 1
+wall 3
+
+node 873
+wall 1
+wall 3
+
+node 874
+wall 1
+wall 3
+
+node 875
+wall 2
+wall 3
+
+node 876
+wall 0
+wall 1
+
+node 877
+wall 0
+wall 3
+
+node 878
+wall 2
+
+node 879
+wall 0
+wall 1
+
+node 880
+wall 0
+wall 3
+
+node 881
+wall 0
+wall 2
+
+node 882
+wall 1
+wall 2
+
+node 883
+wall 0
+wall 3
+
+node 884
+wall 0
+wall 2
+
+node 885
+wall 0
+
+node 886
+wall 0
+wall 2
+
+node 887
+wall 0
+wall 1
+wall 2
+
+node 888
+wall 0
+wall 3
+
+node 889
+wall 0
+wall 2
+
+node 890
+wall 0
+wall 2
+
+node 891
+wall 0
+wall 1
+
+node 892
+wall 1
+wall 3
+
+node 893
+wall 0
+wall 3
+
+node 894
+wall 1
+wall 2
+
+node 895
+wall 0
+wall 3
+
+node 896
+wall 1
+
+node 897
+wall 1
+wall 3
+
+node 898
+wall 0
+wall 2
+wall 3
+
+node 899
+wall 0
+wall 2
+
+node 900
+wall 1
+
+node 901
+wall 1
+wall 3
+
+node 902
+wall 0
+wall 3
+
+node 903
+wall 1
+
+node 904
+wall 1
+wall 3
+
+node 905
+wall 1
+wall 3
+
+node 906
+wall 1
+wall 3
+
+node 907
+wall 1
+wall 3
+
+node 908
+wall 0
+wall 1
+wall 3
+
+node 909
+wall 0
+wall 3
+
+node 910
+wall 1
+wall 2
+
+node 911
+wall 0
+wall 3
+
+node 912
+wall 0
+wall 1
+
+node 913
+wall 2
+wall 3
+
+node 914
+wall 0
+wall 1
+
+node 915
+wall 1
+wall 2
+wall 3
+
+node 916
+wall 0
+wall 3
+
+node 917
+wall 1
+wall 2
+
+node 918
+wall 0
+wall 2
+wall 3
+
+node 919
+wall 0
+wall 1
+
+node 920
+wall 2
+wall 3
+
+node 921
+wall 0
+wall 2
+
+node 922
+wall 1
+wall 2
+
+node 923
+wall 2
+wall 3
+
+node 924
+wall 1
+wall 2
+
+node 925
+wall 0
+wall 3
+
+node 926
+wall 1
+wall 2
+
+node 927
+wall 1
+wall 3
+
+node 928
+wall 0
+wall 3
+
+node 929
+wall 1
+wall 2
+
+node 930
+wall 2
+wall 3
+
+node 931
+wall 0
+wall 2
+
+node 932
+wall 0
+wall 1
+
+node 933
+wall 3
+
+node 934
+wall 0
+wall 1
+
+node 935
+wall 1
+wall 2
+wall 3
+
+node 936
+wall 0
+wall 3
+
+node 937
+wall 0
+wall 2
+
+node 938
+wall 1
+wall 2
+
+node 939
+wall 0
+wall 3
+
+node 940
+wall 0
+wall 1
+
+node 941
+wall 2
+wall 3
+
+node 942
+wall 1
+wall 2
+
+node 943
+wall 2
+wall 3
+
+node 944
+wall 0
+wall 1
+
+node 945
+wall 1
+wall 3
+
+node 946
+wall 1
+wall 2
+wall 3
+
+node 947
+wall 2
+wall 3
+
+node 948
+wall 0
+wall 2
+
+node 949
+wall 0
+wall 1
+
+node 950
+wall 1
+wall 3
+
+node 951
+wall 1
+wall 3
+
+node 952
+wall 1
+wall 2
+wall 3
+
+node 953
+wall 3
+
+node 954
+wall 1
+wall 2
+
+node 955
+wall 1
+wall 3
+
+node 956
+wall 2
+wall 3
+
+node 957
+wall 1
+wall 2
+
+node 958
+wall 2
+wall 3
+
+node 959
+wall 1
+wall 2
+
+node 960
+wall 0
+wall 3
+
+node 961
+wall 1
+wall 2
+
+node 962
+wall 2
+wall 3
+
+node 963
+wall 0
+wall 1
+
+node 964
+wall 3
+
+node 965
+wall 0
+wall 1
+
+node 966
+wall 2
+wall 3
+
+node 967
+wall 0
+wall 1
+
+node 968
+wall 0
+wall 3
+
+node 969
+wall 2
+
+node 970
+wall 0
+wall 1
+
+node 971
+wall 0
+wall 2
+wall 3
+
+node 972
+wall 0
+wall 2
+
+node 973
+wall 0
+
+node 974
+wall 0
+wall 1
+wall 2
+
+node 975
+wall 2
+wall 3
+
+node 976
+wall 0
+wall 1
+
+node 977
+wall 1
+wall 2
+wall 3
+
+node 978
+wall 2
+wall 3
+
+node 979
+wall 0
+wall 1
+
+node 980
+wall 0
+wall 3
+
+node 981
+wall 0
+wall 2
+
+node 982
+wall 1
+wall 2
+
+node 983
+wall 1
+wall 3
+
+node 984
+wall 2
+wall 3
+
+node 985
+wall 0
+wall 1
+
+node 986
+wall 1
+wall 3
+
+node 987
+wall 0
+wall 3
+
+node 988
+wall 0
+wall 2
+
+node 989
+wall 1
+
+node 990
+wall 2
+wall 3
+
+node 991
+wall 0
+wall 1
+
+node 992
+wall 0
+wall 3
+
+node 993
+wall 0
+wall 2
+
+node 994
+wall 1
+wall 2
+
+node 995
+wall 2
+wall 3
+
+node 996
+wall 0
+wall 2
+
+node 997
+wall 0
+
+node 998
+wall 0
+wall 1
+wall 2
+
+node 999
+wall 2
+wall 3
+
+node 1000
+wall 1
+
+node 1001
+wall 2
+wall 3
+
+node 1002
+wall 0
+wall 1
+
+node 1003
+wall 1
+wall 2
+wall 3
+
+node 1004
+wall 0
+wall 3
+
+node 1005
+wall 1
+wall 2
+
+node 1006
+wall 0
+wall 3
+
+node 1007
+wall 0
+
+node 1008
+wall 0
+wall 2
+
+node 1009
+wall 0
+wall 2
+
+node 1010
+wall 1
+wall 2
+
+node 1011
+wall 0
+wall 2
+wall 3
+
+node 1012
+wall 0
+
+node 1013
+wall 1
+wall 2
+
+node 1014
+wall 1
+wall 3
+
+node 1015
+wall 2
+wall 3
+
+node 1016
+wall 0
+wall 1
+
+node 1017
+wall 2
+wall 3
+
+node 1018
+wall 1
+wall 2
+
+node 1019
+wall 0
+wall 1
+wall 3
+
+node 1020
+wall 2
+wall 3
+
+node 1021
+wall 0
+wall 1
+
+node 1022
+wall 0
+wall 3
+
+node 1023
+wall 1
+
+node 1024
+wall 0
+wall 3
+
+node 1025
+wall 0
+wall 1
+
+node 1026
+wall 2
+wall 3
+
+node 1027
+wall 0
+
+node 1028
+wall 0
+wall 2
+
+node 1029
+wall 1
+wall 2
+
+node 1030
+wall 1
+wall 3
+
+node 1031
+wall 0
+wall 1
+wall 3
+
+node 1032
+wall 0
+wall 3
+
+node 1033
+wall 1
+wall 2
+
+node 1034
+wall 0
+wall 1
+wall 3
+
+node 1035
+wall 1
+wall 3
+
+node 1036
+wall 1
+wall 3
+
+node 1037
+wall 3
+
+node 1038
+wall 0
+wall 1
+wall 2
+
+node 1039
+wall 1
+wall 3
+
+node 1040
+wall 0
+wall 3
+
+node 1041
+wall 1
+wall 2
+
+node 1042
+wall 2
+wall 3
+
+node 1043
+wall 0
+wall 2
+
+node 1044
+wall 0
+wall 2
+
+node 1045
+wall 0
+wall 2
+
+node 1046
+wall 0
+wall 1
+
+node 1047
+wall 1
+wall 3
+
+node 1048
+wall 0
+wall 3
+
+node 1049
+wall 0
+wall 2
+
+node 1050
+wall 1
+wall 2
+
+node 1051
+wall 0
+wall 1
+wall 3
+
+node 1052
+wall 2
+wall 3
+
+node 1053
+wall 0
+
+node 1054
+wall 1
+wall 2
+
+node 1055
+wall 0
+wall 3
+
+node 1056
+wall 1
+wall 2
+
+node 1057
+wall 1
+wall 2
+wall 3
+
+node 1058
+wall 0
+wall 3
+
+node 1059
+wall 0
+wall 2
+
+node 1060
+wall 0
+wall 2
+
+node 1061
+wall 0
+wall 1
+
+node 1062
+wall 1
+wall 3
+
+node 1063
+wall 0
+wall 2
+wall 3
+
+node 1064
+
+node 1065
+wall 0
+wall 1
+wall 2
+
+node 1066
+wall 3
+
+node 1067
+wall 0
+wall 2
+
+node 1068
+wall 0
+wall 2
+
+node 1069
+wall 1
+wall 2
+
+node 1070
+wall 0
+wall 3
+
+node 1071
+wall 1
+wall 2
+
+node 1072
+wall 1
+wall 3
+
+node 1073
+wall 1
+wall 2
+wall 3
+
+node 1074
+wall 1
+wall 3
+
+node 1075
+wall 2
+wall 3
+
+node 1076
+wall 0
+wall 1
+
+node 1077
+wall 1
+wall 3
+
+node 1078
+wall 0
+wall 3
+
+node 1079
+wall 0
+wall 2
+
+node 1080
+wall 1
+wall 2
+
+node 1081
+wall 1
+wall 3
+
+node 1082
+wall 2
+wall 3
+
+node 1083
+wall 0
+wall 1
+
+node 1084
+wall 1
+wall 3
+
+node 1085
+wall 2
+wall 3
+
+node 1086
+wall 1
+wall 2
+
+node 1087
+wall 1
+wall 3
+
+node 1088
+wall 0
+wall 3
+
+node 1089
+wall 1
+wall 2
+
+node 1090
+wall 1
+wall 3
+
+node 1091
+wall 0
+wall 3
+
+node 1092
+wall 0
+wall 2
+
+node 1093
+wall 0
+wall 1
+
+node 1094
+wall 0
+wall 3
+
+node 1095
+wall 0
+wall 2
+
+node 1096
+wall 1
+
+node 1097
+wall 2
+wall 3
+
+node 1098
+wall 1
+wall 2
+
+node 1099
+wall 0
+wall 2
+wall 3
+
+node 1100
+wall 0
+wall 1
+
+node 1101
+wall 3
+
+node 1102
+wall 0
+wall 2
+
+node 1103
+wall 1
+wall 2
+
+node 1104
+wall 0
+wall 3
+
+node 1105
+wall 1
+
+node 1106
+wall 0
+wall 3
+
+node 1107
+wall 0
+wall 1
+
+node 1108
+wall 1
+wall 3
+
+node 1109
+wall 0
+wall 3
+
+node 1110
+wall 0
+wall 1
+
+node 1111
+wall 1
+wall 3
+
+node 1112
+wall 2
+wall 3
+
+node 1113
+wall 0
+wall 1
+
+node 1114
+wall 1
+wall 2
+wall 3
+
+node 1115
+wall 0
+wall 3
+
+node 1116
+wall 1
+wall 2
+
+node 1117
+wall 0
+wall 3
+
+node 1118
+wall 0
+wall 2
+
+node 1119
+wall 0
+wall 2
+
+node 1120
+wall 1
+wall 2
+
+node 1121
+wall 0
+wall 3
+
+node 1122
+wall 2
+
+node 1123
+wall 0
+wall 2
+
+node 1124
+wall 1
+wall 2
+
+node 1125
+wall 0
+wall 3
+
+node 1126
+wall 1
+wall 2
+
+node 1127
+wall 1
+wall 3
+
+node 1128
+wall 2
+wall 3
+
+node 1129
+wall 0
+wall 1
+
+node 1130
+wall 0
+wall 2
+wall 3
+
+node 1131
+wall 1
+
+node 1132
+wall 0
+wall 3
+
+node 1133
+wall 1
+wall 2
+
+node 1134
+wall 3
+
+node 1135
+wall 0
+wall 2
+
+node 1136
+wall 0
+wall 2
+
+node 1137
+wall 1
+wall 2
+
+node 1138
+wall 1
+wall 3
+
+node 1139
+wall 0
+wall 1
+wall 3
+
+node 1140
+wall 1
+wall 3
+
+node 1141
+wall 2
+wall 3
+
+node 1142
+wall 0
+wall 1
+
+node 1143
+wall 2
+wall 3
+
+node 1144
+wall 1
+wall 2
+
+node 1145
+wall 0
+wall 3
+
+node 1146
+wall 1
+wall 2
+
+node 1147
+wall 0
+wall 3
+
+node 1148
+wall 0
+wall 1
+
+node 1149
+wall 0
+wall 3
+
+node 1150
+wall 1
+wall 2
+
+node 1151
+wall 2
+wall 3
+
+node 1152
+wall 0
+wall 2
+
+node 1153
+wall 0
+wall 1
+
+node 1154
+wall 1
+wall 3
+
+node 1155
+wall 1
+wall 2
+wall 3
+
+node 1156
+wall 1
+wall 3
+
+node 1157
+wall 1
+wall 3
+
+node 1158
+wall 1
+wall 3
+
+node 1159
+wall 1
+wall 3
+
+node 1160
+wall 1
+wall 3
+
+node 1161
+wall 2
+wall 3
+
+node 1162
+wall 0
+wall 1
+
+node 1163
+wall 2
+wall 3
+
+node 1164
+wall 0
+wall 1
+
+node 1165
+wall 2
+wall 3
+
+node 1166
+wall 0
+wall 1
+
+node 1167
+wall 2
+wall 3
+
+node 1168
+wall 0
+wall 2
+
+node 1169
+wall 0
+wall 2
+
+node 1170
+wall 0
+wall 1
+
+node 1171
+wall 2
+wall 3
+
+node 1172
+wall 0
+wall 2
+
+node 1173
+wall 0
+wall 2
+
+node 1174
+wall 0
+wall 1
+
+node 1175
+wall 2
+wall 3
+
+node 1176
+wall 0
+wall 2
+
+node 1177
+wall 2
+
+node 1178
+wall 0
+wall 1
+wall 2
+
+node 1179
+wall 2
+wall 3
+
+node 1180
+wall 0
+wall 1
+
+node 1181
+wall 1
+wall 3
+
+node 1182
+wall 1
+wall 3
+
+node 1183
+wall 0
+wall 1
+wall 3
+
+node 1184
+wall 3
+
+node 1185
+wall 0
+wall 2
+
+node 1186
+wall 0
+wall 1
+wall 2
+
+node 1187
+wall 0
+wall 3
+
+node 1188
+wall 1
+wall 2
+
+node 1189
+wall 1
+wall 3
+
+node 1190
+wall 2
+wall 3
+
+node 1191
+wall 0
+wall 1
+
+node 1192
+wall 1
+wall 3
+
+node 1193
+wall 0
+wall 3
+
+node 1194
+wall 0
+wall 1
+
+node 1195
+wall 2
+wall 3
+
+node 1196
+wall 0
+wall 2
+
+node 1197
+wall 1
+wall 2
+
+node 1198
+wall 1
+wall 3
+
+node 1199
+wall 3
+
+node 1200
+wall 0
+wall 1
+
+node 1201
+wall 0
+wall 3
+
+node 1202
+wall 0
+wall 1
+wall 2
+
+node 1203
+wall 1
+wall 3
+
+node 1204
+wall 2
+wall 3
+
+node 1205
+wall 0
+wall 2
+
+node 1206
+wall 1
+wall 2
+
+node 1207
+wall 1
+wall 3
+
+node 1208
+wall 1
+wall 3
+
+node 1209
+wall 1
+wall 3
+
+node 1210
+wall 1
+wall 2
+wall 3
+
+node 1211
+wall 0
+wall 3
+
+node 1212
+wall 1
+wall 2
+
+node 1213
+wall 0
+wall 1
+wall 3
+
+node 1214
+wall 2
+wall 3
+
+node 1215
+wall 0
+wall 1
+
+node 1216
+wall 2
+wall 3
+
+node 1217
+wall 0
+
+node 1218
+wall 0
+wall 1
+
+node 1219
+wall 0
+wall 1
+wall 3
+
+node 1220
+wall 1
+wall 3
+
+node 1221
+wall 0
+wall 3
+
+node 1222
+wall 0
+wall 2
+
+node 1223
+wall 0
+wall 2
+
+node 1224
+wall 2
+
+node 1225
+wall 0
+wall 2
+
+node 1226
+wall 0
+wall 2
+
+node 1227
+wall 0
+wall 1
+wall 2
+
+node 1228
+wall 0
+wall 3
+
+node 1229
+wall 0
+wall 2
+
+node 1230
+wall 1
+wall 2
+
+node 1231
+wall 1
+wall 3
+
+node 1232
+wall 1
+wall 3
+
+node 1233
+wall 1
+wall 3
+
+node 1234
+wall 1
+wall 3
+
+node 1235
+wall 0
+wall 3
+
+node 1236
+wall 0
+wall 2
+
+node 1237
+wall 1
+wall 2
+
+node 1238
+wall 0
+wall 3
+
+node 1239
+
+node 1240
+wall 0
+wall 1
+
+node 1241
+wall 2
+wall 3
+
+node 1242
+wall 1
+wall 2
+
+node 1243
+wall 1
+wall 3
+
+node 1244
+wall 2
+wall 3
+
+node 1245
+wall 0
+wall 2
+
+node 1246
+wall 0
+
+node 1247
+wall 0
+wall 1
+
+node 1248
+wall 1
+wall 3
+
+node 1249
+wall 1
+wall 2
+wall 3
+
+node 1250
+wall 1
+wall 3
+
+node 1251
+wall 3
+
+node 1252
+wall 0
+wall 2
+
+node 1253
+wall 1
+wall 2
+
+node 1254
+wall 0
+wall 2
+wall 3
+
+node 1255
+wall 0
+wall 2
+
+node 1256
+wall 0
+wall 1
+
+node 1257
+wall 2
+wall 3
+
+node 1258
+wall 1
+wall 2
+
+node 1259
+wall 2
+wall 3
+
+node 1260
+wall 0
+wall 1
+
+node 1261
+wall 2
+wall 3
+
+node 1262
+wall 0
+wall 1
+
+node 1263
+wall 1
+wall 3
+
+node 1264
+wall 0
+wall 3
+
+node 1265
+wall 1
+wall 2
+
+node 1266
+wall 0
+wall 3
+
+node 1267
+wall 1
+wall 2
+
+node 1268
+wall 1
+wall 3
+
+node 1269
+wall 1
+wall 3
+
+node 1270
+wall 1
+wall 3
+
+node 1271
+wall 1
+wall 3
+
+node 1272
+wall 0
+wall 3
+
+node 1273
+wall 0
+wall 1
+
+node 1274
+wall 0
+wall 3
+
+node 1275
+wall 0
+wall 2
+
+node 1276
+wall 0
+wall 2
+
+node 1277
+wall 0
+wall 1
+
+node 1278
+wall 1
+wall 3
+
+node 1279
+wall 0
+wall 3
+
+node 1280
+wall 0
+wall 1
+
+node 1281
+wall 3
+
+node 1282
+wall 1
+wall 2
+
+node 1283
+wall 2
+wall 3
+
+node 1284
+wall 1
+wall 2
+
+node 1285
+wall 2
+wall 3
+
+node 1286
+wall 0
+wall 1
+
+node 1287
+wall 0
+wall 2
+wall 3
+
+node 1288
+wall 1
+
+node 1289
+wall 1
+wall 3
+
+node 1290
+wall 2
+wall 3
+
+node 1291
+wall 0
+wall 1
+
+node 1292
+wall 0
+wall 3
+
+node 1293
+wall 1
+wall 2
+
+node 1294
+wall 0
+wall 3
+
+node 1295
+wall 0
+wall 1
+
+node 1296
+wall 1
+wall 3
+
+node 1297
+wall 1
+wall 3
+
+node 1298
+wall 2
+wall 3
+
+node 1299
+wall 0
+wall 1
+
+node 1300
+wall 1
+wall 3
+
+node 1301
+wall 1
+wall 3
+
+node 1302
+wall 0
+wall 3
+
+node 1303
+wall 0
+wall 2
+
+node 1304
+wall 0
+wall 2
+
+node 1305
+wall 0
+wall 2
+
+node 1306
+
+node 1307
+wall 0
+wall 2
+
+node 1308
+wall 0
+wall 2
+
+node 1309
+wall 0
+wall 2
+
+node 1310
+wall 1
+
+node 1311
+wall 0
+wall 1
+wall 3
+
+node 1312
+wall 1
+wall 3
+
+node 1313
+wall 1
+wall 3
+
+node 1314
+wall 2
+wall 3
+
+node 1315
+wall 0
+wall 2
+
+node 1316
+wall 1
+wall 2
+
+node 1317
+wall 0
+wall 1
+wall 3
+
+node 1318
+wall 1
+wall 3
+
+node 1319
+wall 1
+wall 3
+
+node 1320
+wall 1
+wall 3
+
+node 1321
+wall 1
+wall 3
+
+node 1322
+wall 1
+wall 2
+wall 3
+
+node 1323
+wall 1
+wall 3
+
+node 1324
+wall 2
+wall 3
+
+node 1325
+wall 0
+wall 1
+
+node 1326
+wall 0
+wall 2
+wall 3
+
+node 1327
+wall 2
+
+node 1328
+wall 1
+wall 2
+
+node 1329
+wall 1
+wall 3
+
+node 1330
+wall 2
+wall 3
+
+node 1331
+wall 1
+wall 2
+
+node 1332
+wall 0
+wall 3
+
+node 1333
+wall 0
+wall 2
+
+node 1334
+wall 0
+wall 2
+
+node 1335
+wall 0
+wall 1
+
+node 1336
+wall 2
+wall 3
+
+node 1337
+wall 0
+wall 1
+
+node 1338
+wall 1
+wall 2
+wall 3
+
+node 1339
+wall 3
+
+node 1340
+wall 0
+wall 1
+
+node 1341
+wall 1
+wall 2
+wall 3
+
+node 1342
+wall 2
+wall 3
+
+node 1343
+wall 0
+wall 1
+
+node 1344
+wall 1
+wall 2
+wall 3
+
+node 1345
+wall 1
+wall 3
+
+node 1346
+wall 1
+wall 3
+
+node 1347
+wall 1
+wall 3
+
+node 1348
+wall 0
+wall 1
+wall 3
+
+node 1349
+wall 2
+wall 3
+
+node 1350
+wall 1
+
+node 1351
+wall 1
+wall 3
+
+node 1352
+wall 1
+wall 3
+
+node 1353
+wall 0
+wall 3
+
+node 1354
+wall 0
+wall 2
+
+node 1355
+wall 0
+wall 2
+
+node 1356
+wall 1
+wall 2
+
+node 1357
+wall 0
+wall 3
+
+node 1358
+wall 0
+wall 2
+
+node 1359
+wall 0
+wall 1
+
+node 1360
+wall 1
+wall 3
+
+node 1361
+wall 1
+wall 3
+
+node 1362
+wall 1
+wall 3
+
+node 1363
+wall 2
+wall 3
+
+node 1364
+wall 0
+
+node 1365
+wall 0
+wall 2
+
+node 1366
+wall 0
+wall 2
+
+node 1367
+wall 1
+
+node 1368
+wall 2
+wall 3
+
+node 1369
+wall 1
+
+node 1370
+wall 1
+wall 3
+
+node 1371
+wall 2
+wall 3
+
+node 1372
+wall 0
+wall 2
+
+node 1373
+wall 1
+
+node 1374
+wall 0
+wall 1
+wall 3
+
+node 1375
+wall 1
+wall 3
+
+node 1376
+wall 0
+wall 3
+
+node 1377
+wall 0
+wall 1
+
+node 1378
+wall 0
+wall 1
+wall 3
+
+node 1379
+wall 1
+wall 3
+
+node 1380
+wall 0
+wall 2
+wall 3
+
+node 1381
+wall 0
+
+node 1382
+wall 1
+wall 2
+
+node 1383
+wall 0
+wall 2
+wall 3
+
+node 1384
+wall 0
+wall 1
+
+node 1385
+wall 2
+wall 3
+
+node 1386
+wall 0
+wall 1
+
+node 1387
+wall 2
+wall 3
+
+node 1388
+wall 0
+wall 1
+
+node 1389
+wall 1
+wall 3
+
+node 1390
+wall 2
+wall 3
+
+node 1391
+wall 0
+
+node 1392
+wall 0
+wall 1
+wall 2
+
+node 1393
+wall 2
+wall 3
+
+node 1394
+wall 0
+wall 1
+
+node 1395
+wall 1
+wall 3
+
+node 1396
+wall 1
+wall 3
+
+node 1397
+wall 1
+wall 3
+
+node 1398
+wall 3
+
+node 1399
+wall 0
+wall 1
+wall 2
+
+node 1400
+wall 1
+wall 3
+
+node 1401
+wall 1
+wall 3
+
+node 1402
+wall 1
+wall 3
+
+node 1403
+wall 2
+wall 3
+
+node 1404
+wall 0
+wall 1
+
+node 1405
+wall 0
+wall 2
+wall 3
+
+node 1406
+wall 0
+wall 1
+
+node 1407
+wall 1
+wall 3
+
+node 1408
+wall 0
+wall 2
+wall 3
+
+node 1409
+wall 1
+
+node 1410
+wall 2
+wall 3
+
+node 1411
+wall 1
+wall 2
+
+node 1412
+wall 2
+wall 3
+
+node 1413
+wall 0
+wall 1
+
+node 1414
+wall 2
+wall 3
+
+node 1415
+wall 0
+wall 2
+
+node 1416
+wall 0
+wall 1
+
+node 1417
+wall 2
+wall 3
+
+node 1418
+wall 0
+wall 2
+
+node 1419
+wall 1
+wall 2
+
+node 1420
+wall 2
+wall 3
+
+node 1421
+wall 0
+wall 1
+
+node 1422
+wall 0
+wall 2
+wall 3
+
+node 1423
+wall 2
+
+node 1424
+wall 1
+
+node 1425
+wall 2
+wall 3
+
+node 1426
+wall 1
+wall 2
+
+node 1427
+wall 1
+wall 3
+
+node 1428
+wall 2
+wall 3
+
+node 1429
+wall 2
+
+node 1430
+wall 0
+wall 2
+
+node 1431
+wall 1
+wall 2
+
+node 1432
+wall 0
+wall 3
+
+node 1433
+wall 0
+wall 2
+
+node 1434
+wall 1
+wall 2
+
+node 1435
+wall 0
+wall 3
+
+node 1436
+wall 1
+wall 2
+
+node 1437
+wall 0
+wall 3
+
+node 1438
+wall 1
+wall 2
+
+node 1439
+wall 2
+wall 3
+
+node 1440
+wall 0
+wall 1
+
+node 1441
+wall 2
+wall 3
+
+node 1442
+wall 0
+wall 2
+
+node 1443
+wall 0
+wall 2
+
+node 1444
+wall 1
+wall 2
+
+node 1445
+wall 1
+wall 3
+
+node 1446
+wall 1
+wall 3
+
+node 1447
+wall 2
+wall 3
+
+node 1448
+wall 1
+wall 2
+
+node 1449
+wall 0
+wall 3
+
+node 1450
+wall 1
+wall 2
+
+node 1451
+wall 1
+wall 3
+
+node 1452
+wall 2
+wall 3
+
+node 1453
+wall 0
+wall 1
+
+node 1454
+wall 2
+wall 3
+
+node 1455
+wall 0
+
+node 1456
+wall 1
+wall 2
+
+node 1457
+wall 2
+wall 3
+
+node 1458
+wall 0
+wall 1
+
+node 1459
+wall 2
+wall 3
+
+node 1460
+wall 0
+
+node 1461
+wall 0
+wall 2
+
+node 1462
+wall 0
+wall 2
+
+node 1463
+wall 1
+wall 2
+
+node 1464
+wall 0
+wall 3
+
+node 1465
+wall 0
+wall 1
+wall 2
+
+node 1466
+wall 2
+wall 3
+
+node 1467
+wall 0
+wall 1
+
+node 1468
+wall 0
+wall 3
+
+node 1469
+wall 0
+wall 2
+
+node 1470
+wall 0
+wall 1
+
+node 1471
+wall 2
+wall 3
+
+node 1472
+wall 0
+wall 2
+
+node 1473
+wall 0
+wall 1
+
+node 1474
+wall 2
+wall 3
+
+node 1475
+wall 0
+wall 1
+
+node 1476
+wall 0
+wall 1
+wall 3
+
+node 1477
+wall 2
+wall 3
+
+node 1478
+wall 0
+wall 2
+
+node 1479
+wall 0
+wall 1
+
+node 1480
+wall 0
+wall 3
+
+node 1481
+wall 0
+wall 2
+
+node 1482
+wall 1
+wall 2
+
+node 1483
+wall 0
+wall 3
+
+node 1484
+wall 0
+wall 1
+
+node 1485
+wall 1
+wall 3
+
+node 1486
+wall 0
+wall 1
+wall 3
+
+node 1487
+wall 3
+
+node 1488
+wall 0
+wall 1
+
+node 1489
+wall 0
+wall 2
+wall 3
+
+node 1490
+wall 1
+
+node 1491
+wall 0
+wall 3
+
+node 1492
+wall 0
+wall 2
+
+node 1493
+wall 0
+wall 1
+
+node 1494
+wall 0
+wall 3
+
+node 1495
+wall 1
+
+node 1496
+wall 2
+wall 3
+
+node 1497
+wall 0
+wall 1
+
+node 1498
+wall 0
+wall 3
+
+node 1499
+wall 1
+wall 2
+
+node 1500
+wall 0
+wall 1
+wall 3
+
+node 1501
+wall 2
+wall 3
+
+node 1502
+wall 0
+wall 1
+
+node 1503
+wall 3
+
+node 1504
+wall 0
+wall 1
+
+node 1505
+wall 1
+wall 2
+wall 3
+
+node 1506
+wall 0
+wall 3
+
+node 1507
+wall 0
+wall 2
+
+node 1508
+wall 1
+wall 2
+
+node 1509
+wall 0
+wall 3
+
+node 1510
+wall 1
+wall 2
+
+node 1511
+wall 0
+wall 3
+
+node 1512
+wall 0
+wall 1
+
+node 1513
+wall 0
+wall 2
+wall 3
+
+node 1514
+wall 2
+
+node 1515
+wall 0
+
+node 1516
+wall 0
+wall 1
+
+node 1517
+wall 2
+wall 3
+
+node 1518
+wall 1
+wall 2
+
+node 1519
+wall 0
+wall 1
+wall 3
+
+node 1520
+wall 1
+wall 3
+
+node 1521
+wall 0
+wall 2
+wall 3
+
+node 1522
+wall 0
+wall 1
+
+node 1523
+wall 1
+wall 3
+
+node 1524
+wall 0
+wall 3
+
+node 1525
+wall 1
+wall 2
+
+node 1526
+wall 3
+
+node 1527
+wall 0
+wall 1
+
+node 1528
+wall 0
+wall 1
+wall 3
+
+node 1529
+wall 1
+wall 3
+
+node 1530
+wall 2
+wall 3
+
+node 1531
+wall 0
+
+node 1532
+wall 0
+wall 2
+
+node 1533
+wall 1
+wall 2
+
+node 1534
+wall 2
+wall 3
+
+node 1535
+wall 1
+wall 2
+
+node 1536
+wall 1
+wall 3
+
+node 1537
+wall 1
+wall 3
+
+node 1538
+wall 2
+wall 3
+
+node 1539
+wall 0
+wall 1
+
+node 1540
+wall 1
+wall 3
+
+node 1541
+wall 1
+wall 3
+
+node 1542
+wall 0
+wall 3
+
+node 1543
+wall 1
+wall 2
+
+node 1544
+wall 1
+wall 3
+
+node 1545
+wall 2
+wall 3
+
+node 1546
+wall 0
+wall 1
+
+node 1547
+wall 1
+wall 3
+
+node 1548
+wall 1
+wall 3
+
+node 1549
+wall 0
+wall 2
+wall 3
+
+node 1550
+wall 1
+
+node 1551
+wall 0
+wall 3
+
+node 1552
+wall 1
+wall 2
+
+node 1553
+wall 1
+wall 2
+wall 3
+
+node 1554
+wall 1
+wall 3
+
+node 1555
+wall 0
+wall 3
+
+node 1556
+wall 1
+wall 2
+
+node 1557
+wall 0
+wall 2
+wall 3
+
+node 1558
+wall 0
+wall 2
+
+node 1559
+wall 1
+wall 2
+
+node 1560
+wall 0
+wall 3
+
+node 1561
+wall 1
+wall 2
+
+node 1562
+wall 1
+wall 3
+
+node 1563
+wall 0
+wall 3
+
+node 1564
+wall 0
+wall 1
+
+node 1565
+wall 1
+wall 3
+
+node 1566
+wall 3
+
+node 1567
+wall 0
+wall 1
+
+node 1568
+wall 0
+wall 3
+
+node 1569
+wall 1
+
+node 1570
+wall 1
+wall 3
+
+node 1571
+wall 0
+wall 3
+
+node 1572
+wall 1
+
+node 1573
+wall 1
+wall 3
+
+node 1574
+wall 2
+wall 3
+
+node 1575
+wall 0
+wall 2
+
+node 1576
+wall 1
+wall 2
+
+node 1577
+wall 2
+wall 3
+
+node 1578
+wall 1
+
+node 1579
+wall 2
+wall 3
+
+node 1580
+wall 0
+wall 1
+
+node 1581
+wall 2
+wall 3
+
+node 1582
+wall 0
+wall 1
+
+node 1583
+wall 0
+wall 3
+
+node 1584
+wall 0
+wall 1
+
+node 1585
+wall 0
+wall 2
+wall 3
+
+node 1586
+wall 1
+
+node 1587
+wall 2
+wall 3
+
+node 1588
+wall 0
+wall 1
+
+node 1589
+wall 1
+wall 3
+
+node 1590
+wall 1
+wall 3
+
+node 1591
+wall 1
+wall 2
+wall 3
+
+node 1592
+wall 1
+wall 3
+
+node 1593
+wall 0
+wall 3
+
+node 1594
+wall 2
+
+node 1595
+wall 0
+wall 1
+wall 2
+
+node 1596
+wall 1
+wall 3
+
+node 1597
+wall 1
+wall 3
+
+node 1598
+wall 2
+wall 3
+
+node 1599
+wall 0
+wall 1
+
+node 1600
+wall 1
+wall 3
+
+node 1601
+wall 1
+wall 3
+
+node 1602
+wall 0
+wall 2
+wall 3
+
+node 1603
+wall 0
+
+node 1604
+wall 1
+
+node 1605
+wall 2
+wall 3
+
+node 1606
+wall 0
+wall 2
+
+node 1607
+wall 0
+wall 2
+
+node 1608
+wall 0
+wall 2
+
+node 1609
+wall 0
+wall 2
+
+node 1610
+wall 1
+
+node 1611
+wall 0
+wall 1
+wall 3
+
+node 1612
+wall 2
+wall 3
+
+node 1613
+wall 1
+wall 2
+
+node 1614
+wall 1
+wall 3
+
+node 1615
+wall 1
+wall 3
+
+node 1616
+wall 1
+wall 3
+
+node 1617
+wall 1
+wall 3
+
+node 1618
+wall 1
+wall 2
+wall 3
+
+node 1619
+wall 1
+wall 3
+
+node 1620
+wall 2
+wall 3
+
+node 1621
+wall 1
+wall 2
+
+node 1622
+wall 1
+wall 3
+
+node 1623
+wall 2
+wall 3
+
+node 1624
+wall 0
+wall 2
+
+node 1625
+wall 0
+wall 1
+
+node 1626
+wall 0
+wall 2
+wall 3
+
+node 1627
+wall 0
+wall 1
+
+node 1628
+wall 1
+wall 3
+
+node 1629
+wall 0
+wall 1
+wall 3
+
+node 1630
+wall 2
+wall 3
+
+node 1631
+wall 0
+wall 1
+
+node 1632
+wall 2
+wall 3
+
+node 1633
+wall 1
+wall 2
+
+node 1634
+wall 2
+wall 3
+
+node 1635
+wall 0
+wall 1
+
+node 1636
+wall 3
+
+node 1637
+wall 0
+wall 2
+
+node 1638
+wall 1
+wall 2
+
+node 1639
+wall 1
+wall 3
+
+node 1640
+wall 2
+wall 3
+
+node 1641
+wall 0
+wall 1
+
+node 1642
+wall 2
+wall 3
+
+node 1643
+wall 1
+wall 2
+
+node 1644
+wall 0
+wall 3
+
+node 1645
+wall 0
+wall 2
+
+node 1646
+wall 1
+
+node 1647
+wall 3
+
+node 1648
+wall 0
+wall 1
+
+node 1649
+wall 1
+wall 3
+
+node 1650
+wall 1
+wall 3
+
+node 1651
+wall 2
+wall 3
+
+node 1652
+wall 0
+wall 2
+
+node 1653
+wall 1
+wall 2
+
+node 1654
+wall 1
+wall 3
+
+node 1655
+wall 0
+wall 3
+
+node 1656
+wall 0
+wall 2
+
+node 1657
+wall 0
+wall 1
+
+node 1658
+wall 0
+wall 3
+
+node 1659
+wall 0
+wall 1
+
+node 1660
+wall 2
+wall 3
+
+node 1661
+wall 1
+
+node 1662
+wall 0
+wall 3
+
+node 1663
+wall 0
+wall 1
+wall 2
+
+node 1664
+wall 1
+wall 3
+
+node 1665
+wall 1
+wall 3
+
+node 1666
+wall 1
+wall 3
+
+node 1667
+wall 2
+wall 3
+
+node 1668
+wall 0
+wall 2
+
+node 1669
+wall 1
+
+node 1670
+wall 0
+wall 2
+wall 3
+
+node 1671
+wall 0
+wall 1
+
+node 1672
+wall 1
+wall 3
+
+node 1673
+wall 0
+wall 2
+wall 3
+
+node 1674
+wall 0
+wall 1
+
+node 1675
+wall 2
+wall 3
+
+node 1676
+wall 0
+wall 1
+
+node 1677
+wall 3
+
+node 1678
+wall 2
+
+node 1679
+wall 2
+
+node 1680
+wall 0
+wall 1
+wall 2
+
+node 1681
+wall 1
+wall 3
+
+node 1682
+wall 0
+wall 3
+
+node 1683
+wall 0
+wall 2
+
+node 1684
+wall 0
+wall 1
+
+node 1685
+wall 1
+wall 3
+
+node 1686
+wall 2
+wall 3
+
+node 1687
+wall 0
+wall 1
+
+node 1688
+wall 0
+wall 3
+
+node 1689
+wall 1
+wall 2
+
+node 1690
+wall 0
+wall 1
+wall 3
+
+node 1691
+wall 1
+wall 3
+
+node 1692
+wall 0
+wall 3
+
+node 1693
+wall 0
+
+node 1694
+wall 1
+wall 2
+
+node 1695
+wall 0
+wall 2
+wall 3
+
+node 1696
+wall 1
+wall 2
+
+node 1697
+wall 1
+wall 3
+
+node 1698
+wall 1
+wall 2
+wall 3
+
+node 1699
+wall 1
+wall 3
+
+node 1700
+wall 1
+wall 3
+
+node 1701
+wall 0
+wall 3
+
+node 1702
+wall 0
+wall 1
+
+node 1703
+wall 0
+wall 3
+
+node 1704
+wall 1
+wall 2
+
+node 1705
+wall 1
+wall 3
+
+node 1706
+wall 0
+wall 1
+wall 3
+
+node 1707
+wall 1
+wall 3
+
+node 1708
+wall 1
+wall 3
+
+node 1709
+wall 1
+wall 3
+
+node 1710
+wall 0
+wall 3
+
+node 1711
+wall 1
+wall 2
+
+node 1712
+wall 2
+wall 3
+
+node 1713
+wall 0
+wall 1
+
+node 1714
+wall 1
+wall 3
+
+node 1715
+wall 1
+wall 2
+wall 3
+
+node 1716
+wall 1
+wall 3
+
+node 1717
+wall 0
+wall 2
+wall 3
+
+node 1718
+wall 0
+wall 1
+
+node 1719
+wall 1
+wall 3
+
+node 1720
+wall 0
+wall 3
+
+node 1721
+wall 1
+wall 2
+
+node 1722
+wall 1
+wall 3
+
+node 1723
+wall 0
+wall 3
+
+node 1724
+wall 1
+
+node 1725
+wall 0
+wall 3
+
+node 1726
+wall 1
+wall 2
+
+node 1727
+wall 1
+wall 3
+
+node 1728
+wall 0
+wall 3
+
+node 1729
+wall 0
+wall 2
+
+node 1730
+wall 0
+wall 1
+
+node 1731
+wall 1
+wall 3
+
+node 1732
+wall 3
+
+node 1733
+wall 0
+wall 1
+
+node 1734
+wall 1
+wall 2
+wall 3
+
+node 1735
+wall 1
+wall 3
+
+node 1736
+wall 0
+wall 3
+
+node 1737
+wall 1
+wall 2
+
+node 1738
+wall 2
+wall 3
+
+node 1739
+wall 0
+wall 1
+
+node 1740
+wall 1
+wall 3
+
+node 1741
+wall 1
+wall 3
+
+node 1742
+wall 1
+wall 3
+
+node 1743
+wall 1
+wall 3
+
+node 1744
+wall 0
+wall 3
+
+node 1745
+wall 0
+wall 2
+
+node 1746
+wall 0
+wall 2
+
+node 1747
+wall 1
+
+node 1748
+wall 0
+wall 3
+
+node 1749
+wall 1
+wall 2
+
+node 1750
+wall 1
+wall 3
+
+node 1751
+wall 1
+wall 3
+
+node 1752
+wall 2
+wall 3
+
+node 1753
+wall 1
+wall 2
+
+node 1754
+wall 0
+wall 3
+
+node 1755
+wall 1
+wall 2
+
+node 1756
+wall 3
+
+node 1757
+wall 1
+wall 2
+
+node 1758
+wall 1
+wall 3
+
+node 1759
+wall 1
+wall 3
+
+node 1760
+wall 2
+wall 3
+
+node 1761
+wall 0
+wall 2
+
+node 1762
+wall 0
+wall 2
+
+node 1763
+wall 1
+
+node 1764
+wall 2
+wall 3
+
+node 1765
+wall 0
+wall 1
+
+node 1766
+wall 3
+
+node 1767
+wall 0
+wall 1
+
+node 1768
+wall 2
+wall 3
+
+node 1769
+wall 2
+
+node 1770
+wall 1
+wall 2
+
+node 1771
+wall 0
+wall 3
+
+node 1772
+wall 1
+wall 2
+
+node 1773
+wall 1
+wall 3
+
+node 1774
+wall 1
+wall 3
+
+node 1775
+wall 2
+wall 3
+
+node 1776
+wall 0
+wall 1
+
+node 1777
+wall 1
+wall 3
+
+node 1778
+wall 1
+wall 3
+
+node 1779
+wall 0
+wall 2
+wall 3
+
+node 1780
+wall 2
+
+node 1781
+wall 1
+wall 2
+
+node 1782
+wall 1
+wall 3
+
+node 1783
+wall 2
+wall 3
+
+node 1784
+wall 0
+wall 2
+
+node 1785
+wall 1
+wall 2
+
+node 1786
+wall 1
+wall 3
+
+node 1787
+wall 0
+wall 3
+
+node 1788
+wall 0
+wall 2
+
+node 1789
+wall 1
+wall 2
+
+node 1790
+wall 3
+
+node 1791
+wall 1
+wall 2
+
+node 1792
+wall 1
+wall 3
+
+node 1793
+wall 1
+wall 3
+
+node 1794
+wall 1
+wall 3
+
+node 1795
+wall 0
+wall 3
+
+node 1796
+wall 0
+wall 1
+
+node 1797
+wall 1
+wall 3
+
+node 1798
+wall 2
+wall 3
+
+node 1799
+wall 0
+wall 2
+
+node 1800
+wall 1
+
+node 1801
+wall 1
+wall 3
+
+node 1802
+wall 0
+wall 3
+
+node 1803
+wall 0
+wall 2
+
+node 1804
+wall 1
+wall 2
+
+node 1805
+wall 0
+wall 2
+wall 3
+
+node 1806
+wall 1
+wall 2
+
+node 1807
+wall 0
+wall 3
+
+node 1808
+wall 1
+wall 2
+
+node 1809
+wall 1
+wall 3
+
+node 1810
+wall 0
+wall 3
+
+node 1811
+wall 0
+wall 2
+
+node 1812
+wall 0
+wall 1
+
+node 1813
+wall 2
+wall 3
+
+node 1814
+wall 0
+wall 1
+wall 2
+
+node 1815
+wall 1
+wall 3
+
+node 1816
+wall 1
+wall 3
+
+node 1817
+wall 2
+wall 3
+
+node 1818
+wall 0
+wall 1
+
+node 1819
+wall 0
+wall 3
+
+node 1820
+wall 0
+wall 2
+
+node 1821
+wall 1
+wall 2
+
+node 1822
+wall 0
+wall 3
+
+node 1823
+wall 1
+wall 2
+
+node 1824
+wall 2
+wall 3
+
+node 1825
+wall 0
+wall 1
+wall 2
+
+node 1826
+wall 1
+wall 3
+
+node 1827
+wall 1
+wall 2
+wall 3
+
+node 1828
+wall 3
+
+node 1829
+wall 0
+wall 2
+
+node 1830
+wall 0
+wall 2
+
+node 1831
+wall 0
+wall 1
+
+node 1832
+wall 1
+wall 3
+
+node 1833
+wall 0
+wall 3
+
+node 1834
+wall 0
+wall 1
+
+node 1835
+wall 0
+wall 3
+
+node 1836
+wall 1
+wall 2
+
+node 1837
+wall 1
+wall 3
+
+node 1838
+wall 0
+wall 3
+
+node 1839
+wall 0
+wall 1
+
+node 1840
+wall 2
+wall 3
+
+node 1841
+wall 0
+wall 1
+
+node 1842
+wall 1
+wall 3
+
+node 1843
+wall 1
+wall 3
+
+node 1844
+wall 1
+wall 3
+
+node 1845
+wall 1
+wall 3
+
+node 1846
+wall 1
+wall 3
+
+node 1847
+wall 1
+wall 3
+
+node 1848
+wall 0
+wall 1
+wall 3
+
+node 1849
+wall 0
+wall 3
+
+node 1850
+wall 1
+wall 2
+
+node 1851
+wall 1
+wall 3
+
+node 1852
+wall 3
+
+node 1853
+wall 0
+wall 2
+
+node 1854
+wall 0
+wall 2
+
+node 1855
+wall 0
+wall 2
+
+node 1856
+wall 0
+wall 1
+
+node 1857
+wall 1
+wall 3
+
+node 1858
+wall 0
+wall 2
+wall 3
+
+node 1859
+wall 2
+
+node 1860
+wall 1
+wall 2
+
+node 1861
+wall 0
+wall 1
+wall 3
+
+node 1862
+wall 2
+wall 3
+
+node 1863
+wall 0
+wall 2
+
+node 1864
+wall 0
+wall 1
+
+node 1865
+wall 1
+wall 3
+
+node 1866
+wall 2
+wall 3
+
+node 1867
+wall 0
+wall 1
+wall 2
+
+node 1868
+wall 2
+wall 3
+
+node 1869
+wall 2
+
+node 1870
+wall 0
+wall 1
+
+node 1871
+wall 0
+wall 3
+
+node 1872
+wall 2
+
+node 1873
+wall 0
+wall 2
+
+node 1874
+wall 0
+wall 2
+
+node 1875
+wall 0
+wall 1
+
+node 1876
+wall 2
+wall 3
+
+node 1877
+wall 0
+wall 1
+
+node 1878
+wall 1
+wall 3
+
+node 1879
+wall 0
+wall 3
+
+node 1880
+wall 0
+wall 2
+
+node 1881
+wall 1
+wall 2
+
+node 1882
+wall 2
+wall 3
+
+node 1883
+wall 1
+wall 2
+
+node 1884
+wall 1
+wall 3
+
+node 1885
+wall 1
+wall 3
+
+node 1886
+wall 0
+wall 3
+
+node 1887
+wall 1
+wall 2
+
+node 1888
+wall 1
+wall 3
+
+node 1889
+wall 1
+wall 2
+wall 3
+
+node 1890
+wall 0
+wall 3
+
+node 1891
+wall 1
+wall 2
+
+node 1892
+wall 1
+wall 3
+
+node 1893
+wall 1
+wall 2
+wall 3
+
+node 1894
+wall 1
+wall 3
+
+node 1895
+wall 1
+wall 3
+
+node 1896
+wall 1
+wall 3
+
+node 1897
+wall 1
+wall 3
+
+node 1898
+wall 1
+wall 3
+
+node 1899
+wall 2
+wall 3
+
+node 1900
+wall 0
+wall 1
+
+node 1901
+wall 1
+wall 3
+
+node 1902
+wall 1
+wall 3
+
+node 1903
+wall 0
+wall 3
+
+node 1904
+wall 0
+wall 1
+wall 2
+
+node 1905
+wall 0
+wall 3
+
+node 1906
+wall 1
+wall 2
+
+node 1907
+wall 2
+wall 3
+
+node 1908
+wall 0
+wall 2
+
+node 1909
+wall 0
+wall 2
+
+node 1910
+wall 0
+wall 1
+
+node 1911
+wall 2
+wall 3
+
+node 1912
+wall 0
+
+node 1913
+wall 0
+wall 1
+
+node 1914
+wall 1
+wall 3
+
+node 1915
+wall 3
+
+node 1916
+wall 0
+wall 2
+
+node 1917
+wall 0
+wall 2
+
+node 1918
+wall 0
+wall 2
+
+node 1919
+wall 0
+wall 1
+
+node 1920
+wall 1
+wall 3
+
+node 1921
+wall 1
+wall 3
+
+node 1922
+wall 0
+wall 3
+
+node 1923
+wall 0
+wall 2
+
+node 1924
+wall 0
+wall 1
+
+node 1925
+wall 1
+wall 3
+
+node 1926
+wall 0
+wall 3
+
+node 1927
+wall 1
+wall 2
+
+node 1928
+wall 1
+wall 3
+
+node 1929
+wall 1
+wall 3
+
+node 1930
+wall 0
+wall 3
+
+node 1931
+wall 0
+wall 1
+
+node 1932
+wall 0
+wall 3
+
+node 1933
+wall 0
+wall 1
+
+node 1934
+wall 1
+wall 3
+
+node 1935
+wall 1
+wall 3
+
+node 1936
+wall 2
+wall 3
+
+node 1937
+wall 0
+wall 1
+
+node 1938
+wall 3
+
+node 1939
+wall 0
+wall 1
+
+node 1940
+wall 2
+wall 3
+
+node 1941
+wall 0
+wall 1
+
+node 1942
+wall 2
+wall 3
+
+node 1943
+wall 0
+wall 1
+
+node 1944
+wall 1
+wall 3
+
+node 1945
+wall 1
+wall 3
+
+node 1946
+wall 2
+wall 3
+
+node 1947
+wall 2
+
+node 1948
+wall 1
+wall 2
+
+node 1949
+wall 0
+wall 3
+
+node 1950
+wall 1
+wall 2
+
+node 1951
+wall 1
+wall 3
+
+node 1952
+wall 2
+wall 3
+
+node 1953
+wall 1
+wall 2
+
+node 1954
+wall 0
+wall 3
+
+node 1955
+wall 1
+
+node 1956
+wall 0
+wall 3
+
+node 1957
+wall 0
+wall 2
+
+node 1958
+wall 0
+wall 2
+
+node 1959
+wall 0
+wall 1
+
+node 1960
+wall 2
+wall 3
+
+node 1961
+wall 0
+wall 1
+
+node 1962
+wall 1
+wall 3
+
+node 1963
+wall 2
+wall 3
+
+node 1964
+wall 1
+wall 2
+
+node 1965
+wall 2
+wall 3
+
+node 1966
+wall 0
+wall 2
+
+node 1967
+wall 0
+wall 1
+wall 2
+
+node 1968
+wall 0
+wall 3
+
+node 1969
+wall 1
+wall 2
+
+node 1970
+wall 1
+wall 3
+
+node 1971
+wall 2
+wall 3
+
+node 1972
+wall 1
+wall 2
+
+node 1973
+wall 0
+wall 2
+wall 3
+
+node 1974
+wall 1
+wall 2
+
+node 1975
+wall 1
+wall 3
+
+node 1976
+wall 1
+wall 3
+
+node 1977
+wall 0
+wall 2
+wall 3
+
+node 1978
+wall 1
+
+node 1979
+wall 2
+wall 3
+
+node 1980
+wall 1
+wall 2
+
+node 1981
+wall 1
+wall 3
+
+node 1982
+wall 1
+wall 2
+wall 3
+
+node 1983
+wall 3
+
+node 1984
+wall 1
+wall 2
+
+node 1985
+wall 1
+wall 2
+wall 3
+
+node 1986
+wall 0
+wall 3
+
+node 1987
+wall 1
+wall 2
+
+node 1988
+wall 1
+wall 2
+wall 3
+
+node 1989
+wall 3
+
+node 1990
+wall 0
+wall 1
+
+node 1991
+wall 2
+wall 3
+
+node 1992
+wall 0
+wall 1
+
+node 1993
+wall 1
+wall 3
+
+node 1994
+wall 1
+wall 3
+
+node 1995
+wall 2
+wall 3
+
+node 1996
+wall 0
+wall 2
+
+node 1997
+wall 0
+wall 1
+
+node 1998
+wall 0
+wall 3
+
+node 1999
+wall 1
+wall 2
+
+node 2000
+wall 0
+wall 1
+wall 3
+
+node 2001
+wall 2
+wall 3
+
+node 2002
+wall 0
+wall 2
+
+node 2003
+wall 0
+wall 1
+
+node 2004
+wall 1
+wall 3
+
+node 2005
+wall 1
+wall 2
+wall 3
+
+node 2006
+wall 1
+wall 3
+
+node 2007
+wall 0
+wall 3
+
+node 2008
+wall 0
+wall 2
+
+node 2009
+wall 1
+
+node 2010
+wall 0
+wall 1
+wall 3
+
+node 2011
+wall 1
+wall 3
+
+node 2012
+wall 1
+wall 3
+
+node 2013
+wall 0
+wall 3
+
+node 2014
+wall 0
+
+node 2015
+wall 0
+wall 2
+
+node 2016
+wall 0
+wall 2
+
+node 2017
+wall 0
+wall 2
+
+node 2018
+wall 1
+wall 2
+
+node 2019
+wall 0
+wall 2
+wall 3
+
+node 2020
+wall 2
+
+node 2021
+wall 0
+wall 2
+
+node 2022
+wall 0
+wall 2
+
+node 2023
+wall 0
+wall 2
+
+node 2024
+wall 0
+wall 2
+
+node 2025
+wall 1
+
+node 2026
+wall 2
+wall 3
+
+node 2027
+wall 0
+wall 1
+
+node 2028
+wall 1
+wall 2
+wall 3
+
+node 2029
+wall 0
+wall 3
+
+node 2030
+wall 0
+wall 1
+
+node 2031
+wall 3
+
+node 2032
+wall 0
+wall 1
+
+node 2033
+wall 2
+wall 3
+
+node 2034
+wall 0
+wall 2
+
+node 2035
+wall 0
+wall 2
+
+node 2036
+wall 1
+wall 2
+
+node 2037
+wall 0
+wall 3
+
+node 2038
+wall 0
+wall 2
+
+node 2039
+wall 1
+wall 2
+
+node 2040
+wall 2
+wall 3
+
+node 2041
+wall 0
+wall 1
+wall 2
+
+node 2042
+wall 1
+wall 3
+
+node 2043
+wall 1
+wall 3
+
+node 2044
+wall 2
+wall 3
+
+node 2045
+wall 0
+wall 2
+
+node 2046
+wall 0
+wall 1
+
+node 2047
+wall 1
+wall 2
+wall 3
+
+node 2048
+wall 1
+wall 3
+
+node 2049
+wall 0
+wall 3
+
+node 2050
+wall 1
+
+node 2051
+wall 0
+wall 3
+
+node 2052
+wall 0
+wall 2
+
+node 2053
+wall 1
+wall 2
+
+node 2054
+wall 3
+
+node 2055
+wall 0
+wall 2
+
+node 2056
+wall 1
+wall 2
+
+node 2057
+wall 1
+wall 3
+
+node 2058
+wall 0
+wall 1
+wall 3
+
+node 2059
+wall 1
+wall 3
+
+node 2060
+wall 1
+wall 3
+
+node 2061
+wall 1
+wall 3
+
+node 2062
+wall 1
+wall 3
+
+node 2063
+wall 1
+wall 2
+wall 3
+
+node 2064
+wall 1
+wall 3
+
+node 2065
+wall 0
+wall 3
+
+node 2066
+wall 0
+wall 2
+
+node 2067
+wall 0
+wall 2
+
+node 2068
+wall 0
+wall 1
+
+node 2069
+wall 0
+wall 3
+
+node 2070
+wall 0
+wall 1
+
+node 2071
+wall 0
+wall 3
+
+node 2072
+wall 0
+
+node 2073
+wall 0
+
+node 2074
+wall 0
+wall 1
+wall 2
+
+node 2075
+wall 2
+wall 3
+
+node 2076
+wall 0
+wall 1
+
+node 2077
+wall 2
+wall 3
+
+node 2078
+wall 0
+wall 2
+
+node 2079
+wall 1
+wall 2
+
+node 2080
+wall 1
+wall 3
+
+node 2081
+wall 1
+wall 3
+
+node 2082
+wall 2
+wall 3
+
+node 2083
+wall 0
+wall 1
+
+node 2084
+wall 0
+wall 3
+
+node 2085
+wall 0
+wall 2
+
+node 2086
+wall 0
+wall 1
+wall 2
+
+node 2087
+wall 3
+
+node 2088
+wall 0
+wall 2
+
+node 2089
+wall 0
+wall 1
+
+node 2090
+wall 0
+wall 3
+
+node 2091
+wall 0
+wall 1
+
+node 2092
+wall 1
+wall 3
+
+node 2093
+wall 3
+
+node 2094
+wall 0
+wall 2
+
+node 2095
+wall 0
+wall 1
+
+node 2096
+wall 2
+wall 3
+
+node 2097
+wall 0
+wall 2
+
+node 2098
+wall 1
+wall 2
+
+node 2099
+wall 1
+wall 3
+
+node 2100
+wall 1
+wall 3
+
+node 2101
+wall 1
+wall 3
+
+node 2102
+wall 0
+wall 3
+
+node 2103
+wall 0
+wall 1
+
+node 2104
+wall 1
+wall 3
+
+node 2105
+wall 0
+wall 2
+wall 3
+
+node 2106
+wall 0
+wall 1
+
+node 2107
+wall 1
+wall 3
+
+node 2108
+wall 1
+wall 3
+
+node 2109
+wall 2
+wall 3
+
+node 2110
+wall 1
+
+node 2111
+wall 1
+wall 3
+
+node 2112
+wall 2
+wall 3
+
+node 2113
+wall 0
+wall 2
+
+node 2114
+wall 1
+wall 2
+
+node 2115
+wall 1
+wall 3
+
+node 2116
+wall 0
+wall 1
+wall 3
+
+node 2117
+wall 0
+wall 3
+
+node 2118
+wall 1
+
+node 2119
+wall 1
+wall 3
+
+node 2120
+wall 1
+wall 3
+
+node 2121
+wall 1
+wall 3
+
+node 2122
+wall 1
+wall 3
+
+node 2123
+wall 1
+wall 3
+
+node 2124
+wall 0
+wall 3
+
+node 2125
+wall 0
+wall 2
+
+node 2126
+wall 1
+wall 2
+
+node 2127
+wall 0
+wall 3
+
+node 2128
+wall 0
+wall 1
+
+node 2129
+wall 0
+wall 1
+wall 3
+
+node 2130
+wall 1
+wall 3
+
+node 2131
+wall 2
+wall 3
+
+node 2132
+wall 0
+wall 1
+
+node 2133
+wall 1
+wall 3
+
+node 2134
+wall 2
+wall 3
+
+node 2135
+wall 0
+wall 2
+
+node 2136
+wall 0
+
+node 2137
+wall 1
+wall 2
+
+node 2138
+wall 0
+wall 1
+wall 3
+
+node 2139
+wall 2
+wall 3
+
+node 2140
+wall 1
+wall 2
+
+node 2141
+wall 2
+wall 3
+
+node 2142
+wall 1
+wall 2
+
+node 2143
+wall 2
+wall 3
+
+node 2144
+wall 0
+wall 1
+wall 2
+
+node 2145
+wall 2
+wall 3
+
+node 2146
+wall 0
+
+node 2147
+wall 0
+wall 2
+
+node 2148
+wall 0
+wall 1
+
+node 2149
+wall 1
+wall 3
+
+node 2150
+wall 1
+wall 3
+
+node 2151
+wall 2
+wall 3
+
+node 2152
+wall 1
+wall 2
+
+node 2153
+wall 1
+wall 3
+
+node 2154
+wall 1
+wall 3
+
+node 2155
+wall 0
+wall 3
+
+node 2156
+wall 1
+
+node 2157
+wall 1
+wall 3
+
+node 2158
+wall 2
+wall 3
+
+node 2159
+wall 0
+wall 2
+
+node 2160
+wall 1
+wall 2
+
+node 2161
+wall 1
+wall 3
+
+node 2162
+wall 0
+wall 3
+
+node 2163
+wall 0
+wall 2
+
+node 2164
+wall 0
+wall 1
+
+node 2165
+wall 2
+wall 3
+
+node 2166
+wall 1
+
+node 2167
+wall 1
+wall 3
+
+node 2168
+wall 1
+wall 2
+wall 3
+
+node 2169
+wall 1
+wall 3
+
+node 2170
+wall 1
+wall 3
+
+node 2171
+wall 1
+wall 2
+wall 3
+
+node 2172
+wall 1
+wall 3
+
+node 2173
+wall 1
+wall 2
+wall 3
+
+node 2174
+wall 1
+wall 3
+
+node 2175
+wall 0
+wall 3
+
+node 2176
+wall 0
+wall 2
+
+node 2177
+wall 1
+wall 2
+
+node 2178
+wall 2
+wall 3
+
+node 2179
+wall 1
+
+node 2180
+wall 1
+wall 3
+
+node 2181
+wall 0
+wall 3
+
+node 2182
+wall 1
+wall 2
+
+node 2183
+wall 2
+wall 3
+
+node 2184
+wall 0
+wall 2
+
+node 2185
+wall 0
+wall 1
+
+node 2186
+wall 1
+wall 3
+
+node 2187
+wall 0
+wall 2
+wall 3
+
+node 2188
+
+node 2189
+wall 0
+wall 2
+
+node 2190
+wall 0
+wall 1
+
+node 2191
+wall 0
+wall 2
+wall 3
+
+node 2192
+wall 0
+wall 2
+
+node 2193
+wall 0
+
+node 2194
+wall 0
+wall 2
+
+node 2195
+wall 0
+wall 2
+
+node 2196
+wall 1
+wall 2
+
+node 2197
+wall 0
+wall 3
+
+node 2198
+wall 1
+wall 2
+
+node 2199
+wall 1
+wall 3
+
+node 2200
+wall 1
+wall 2
+wall 3
+
+node 2201
+wall 0
+wall 3
+
+node 2202
+wall 0
+wall 1
+
+node 2203
+wall 1
+wall 3
+
+node 2204
+wall 2
+wall 3
+
+node 2205
+wall 1
+
+node 2206
+wall 1
+wall 2
+wall 3
+
+node 2207
+wall 2
+wall 3
+
+node 2208
+wall 0
+wall 2
+
+node 2209
+wall 0
+wall 2
+
+node 2210
+wall 0
+wall 1
+
+node 2211
+wall 1
+wall 3
+
+node 2212
+wall 2
+wall 3
+
+node 2213
+wall 0
+wall 1
+
+node 2214
+wall 2
+wall 3
+
+node 2215
+wall 0
+wall 2
+
+node 2216
+wall 1
+wall 2
+
+node 2217
+wall 2
+wall 3
+
+node 2218
+wall 0
+wall 2
+
+node 2219
+wall 1
+wall 2
+
+node 2220
+wall 2
+wall 3
+
+node 2221
+wall 0
+wall 1
+
+node 2222
+wall 2
+wall 3
+
+node 2223
+wall 0
+
+node 2224
+wall 2
+
+node 2225
+wall 1
+wall 2
+
+node 2226
+wall 0
+wall 3
+
+node 2227
+wall 0
+wall 2
+
+node 2228
+wall 0
+wall 1
+wall 2
+
+node 2229
+wall 1
+wall 3
+
+node 2230
+wall 1
+wall 3
+
+node 2231
+wall 3
+
+node 2232
+wall 0
+wall 1
+wall 2
+
+node 2233
+wall 0
+wall 3
+
+node 2234
+wall 0
+wall 2
+
+node 2235
+wall 1
+wall 2
+
+node 2236
+wall 2
+wall 3
+
+node 2237
+wall 0
+wall 1
+
+node 2238
+wall 1
+wall 3
+
+node 2239
+wall 0
+wall 1
+wall 3
+
+node 2240
+wall 1
+wall 3
+
+node 2241
+wall 0
+wall 3
+
+node 2242
+wall 0
+wall 1
+
+node 2243
+wall 3
+
+node 2244
+wall 0
+wall 2
+
+node 2245
+wall 0
+wall 1
+
+node 2246
+wall 0
+wall 1
+wall 3
+
+node 2247
+wall 1
+wall 3
+
+node 2248
+wall 0
+wall 2
+wall 3
+
+node 2249
+wall 2
+
+node 2250
+wall 0
+wall 1
+
+node 2251
+wall 1
+wall 3
+
+node 2252
+wall 2
+wall 3
+
+node 2253
+wall 1
+wall 2
+
+node 2254
+wall 0
+wall 3
+
+node 2255
+wall 1
+wall 2
+
+node 2256
+wall 0
+wall 3
+
+node 2257
+wall 0
+wall 1
+
+node 2258
+wall 0
+wall 3
+
+node 2259
+wall 0
+wall 1
+
+node 2260
+wall 1
+wall 3
+
+node 2261
+wall 2
+wall 3
+
+node 2262
+wall 0
+wall 1
+
+node 2263
+wall 2
+wall 3
+
+node 2264
+wall 0
+wall 2
+
+node 2265
+wall 0
+wall 1
+
+node 2266
+wall 0
+wall 2
+wall 3
+
+node 2267
+wall 0
+
+node 2268
+wall 0
+wall 2
+
+node 2269
+wall 0
+wall 2
+
+node 2270
+wall 0
+wall 1
+wall 2
+
+node 2271
+wall 2
+wall 3
+
+node 2272
+wall 0
+wall 1
+
+node 2273
+wall 1
+wall 2
+wall 3
+
+node 2274
+wall 0
+wall 3
+
+node 2275
+wall 0
+wall 1
+
+node 2276
+wall 1
+wall 3
+
+node 2277
+wall 0
+wall 3
+
+node 2278
+wall 0
+wall 1
+
+node 2279
+wall 1
+wall 3
+
+node 2280
+wall 1
+wall 3
+
+node 2281
+wall 1
+wall 3
+
+node 2282
+wall 0
+wall 3
+
+node 2283
+wall 1
+wall 2
+
+node 2284
+wall 0
+wall 3
+
+node 2285
+wall 0
+
+node 2286
+wall 0
+wall 1
+wall 2
+
+node 2287
+wall 2
+wall 3
+
+node 2288
+wall 1
+wall 2
+
+node 2289
+wall 1
+wall 3
+
+node 2290
+wall 2
+wall 3
+
+node 2291
+wall 1
+wall 2
+
+node 2292
+wall 1
+wall 3
+
+node 2293
+wall 2
+wall 3
+
+node 2294
+wall 0
+wall 1
+wall 2
+
+node 2295
+wall 1
+wall 3
+
+node 2296
+wall 1
+wall 3
+
+node 2297
+wall 2
+wall 3
+
+node 2298
+wall 0
+wall 1
+
+node 2299
+wall 0
+wall 3
+
+node 2300
+wall 1
+wall 2
+
+node 2301
+wall 2
+wall 3
+
+node 2302
+wall 0
+wall 1
+
+node 2303
+wall 0
+wall 1
+wall 3
+
+node 2304
+wall 2
+wall 3
+
+node 2305
+wall 0
+wall 1
+
+node 2306
+wall 1
+wall 3
+
+node 2307
+wall 2
+wall 3
+
+node 2308
+wall 1
+wall 2
+
+node 2309
+wall 1
+wall 3
+
+node 2310
+wall 2
+wall 3
+
+node 2311
+wall 0
+wall 1
+
+node 2312
+wall 3
+
+node 2313
+wall 0
+wall 2
+
+node 2314
+wall 0
+wall 1
+wall 2
+
+node 2315
+wall 2
+wall 3
+
+node 2316
+wall 0
+wall 1
+
+node 2317
+wall 2
+wall 3
+
+node 2318
+wall 0
+wall 2
+
+node 2319
+wall 0
+wall 2
+
+node 2320
+wall 0
+
+node 2321
+wall 0
+wall 1
+
+node 2322
+wall 2
+wall 3
+
+node 2323
+wall 0
+wall 2
+
+node 2324
+wall 1
+wall 2
+
+node 2325
+wall 1
+wall 3
+
+node 2326
+wall 3
+
+node 2327
+wall 1
+wall 2
+
+node 2328
+wall 2
+wall 3
+
+node 2329
+wall 1
+wall 2
+
+node 2330
+wall 1
+wall 3
+
+node 2331
+wall 1
+wall 3
+
+node 2332
+wall 1
+wall 3
+
+node 2333
+wall 0
+wall 2
+wall 3
+
+node 2334
+wall 1
+
+node 2335
+wall 2
+wall 3
+
+node 2336
+wall 0
+wall 2
+
+node 2337
+wall 0
+wall 2
+
+node 2338
+wall 0
+wall 2
+
+node 2339
+wall 2
+
+node 2340
+wall 0
+wall 2
+
+node 2341
+wall 0
+wall 1
+
+node 2342
+wall 2
+wall 3
+
+node 2343
+wall 0
+wall 2
+
+node 2344
+wall 0
+wall 1
+
+node 2345
+wall 1
+wall 3
+
+node 2346
+wall 1
+wall 3
+
+node 2347
+wall 0
+wall 3
+
+node 2348
+wall 1
+wall 2
+
+node 2349
+wall 2
+wall 3
+
+node 2350
+wall 0
+wall 1
+
+node 2351
+wall 0
+wall 3
+
+node 2352
+wall 1
+wall 2
+
+node 2353
+wall 2
+wall 3
+
+node 2354
+wall 0
+
+node 2355
+wall 1
+wall 2
+
+node 2356
+wall 1
+wall 3
+
+node 2357
+wall 0
+wall 1
+wall 3
+
+node 2358
+wall 0
+wall 3
+
+node 2359
+wall 1
+wall 2
+
+node 2360
+wall 0
+wall 3
+
+node 2361
+wall 1
+wall 2
+
+node 2362
+wall 1
+wall 3
+
+node 2363
+wall 0
+wall 3
+
+node 2364
+wall 0
+wall 2
+
+node 2365
+wall 0
+wall 2
+
+node 2366
+wall 1
+wall 2
+
+node 2367
+wall 0
+wall 3
+
+node 2368
+wall 0
+wall 2
+
+node 2369
+wall 0
+wall 1
+
+node 2370
+wall 1
+wall 3
+
+node 2371
+wall 2
+wall 3
+
+node 2372
+wall 0
+wall 1
+
+node 2373
+wall 0
+wall 1
+wall 3
+
+node 2374
+wall 0
+wall 3
+
+node 2375
+wall 1
+wall 2
+
+node 2376
+wall 2
+wall 3
+
+node 2377
+wall 0
+wall 2
+
+node 2378
+wall 0
+wall 2
+
+node 2379
+wall 0
+wall 1
+
+node 2380
+wall 1
+wall 3
+
+node 2381
+wall 1
+wall 3
+
+node 2382
+wall 2
+wall 3
+
+node 2383
+wall 0
+wall 1
+
+node 2384
+wall 1
+wall 3
+
+node 2385
+wall 0
+wall 3
+
+node 2386
+wall 0
+wall 2
+
+node 2387
+wall 0
+wall 1
+
+node 2388
+wall 0
+wall 3
+
+node 2389
+wall 0
+wall 1
+
+node 2390
+wall 0
+wall 3
+
+node 2391
+wall 2
+
+node 2392
+wall 0
+wall 1
+wall 2
+
+node 2393
+wall 0
+wall 3
+
+node 2394
+wall 1
+wall 2
+
+node 2395
+wall 1
+wall 3
+
+node 2396
+wall 1
+wall 3
+
+node 2397
+wall 2
+wall 3
+
+node 2398
+wall 0
+wall 2
+
+node 2399
+wall 0
+wall 1
+
+node 2400
+wall 1
+wall 3
+
+node 2401
+wall 2
+wall 3
+
+node 2402
+wall 0
+wall 2
+
+node 2403
+wall 0
+wall 1
+
+node 2404
+wall 1
+wall 2
+wall 3
+
+node 2405
+wall 0
+wall 3
+
+node 2406
+wall 1
+wall 2
+
+node 2407
+wall 3
+
+node 2408
+wall 1
+wall 2
+
+node 2409
+wall 0
+wall 2
+wall 3
+
+node 2410
+wall 2
+
+node 2411
+wall 0
+wall 1
+
+node 2412
+wall 2
+wall 3
+
+node 2413
+wall 1
+wall 2
+
+node 2414
+wall 0
+wall 2
+wall 3
+
+node 2415
+wall 0
+wall 2
+
+node 2416
+wall 0
+
+node 2417
+wall 1
+wall 2
+
+node 2418
+wall 0
+wall 3
+
+node 2419
+wall 1
+wall 2
+
+node 2420
+wall 2
+wall 3
+
+node 2421
+wall 0
+wall 1
+
+node 2422
+wall 2
+wall 3
+
+node 2423
+wall 1
+
+node 2424
+wall 1
+wall 3
+
+node 2425
+wall 0
+wall 3
+
+node 2426
+wall 0
+wall 1
+
+node 2427
+wall 0
+wall 2
+wall 3
+
+node 2428
+wall 0
+wall 2
+
+node 2429
+wall 1
+wall 2
+
+node 2430
+wall 1
+wall 3
+
+node 2431
+wall 1
+wall 2
+wall 3
+
+node 2432
+wall 0
+wall 3
+
+node 2433
+wall 1
+wall 2
+
+node 2434
+wall 1
+wall 3
+
+node 2435
+wall 1
+wall 3
+
+node 2436
+wall 0
+wall 3
+
+node 2437
+wall 1
+wall 2
+
+node 2438
+wall 1
+wall 2
+wall 3
+
+node 2439
+wall 1
+wall 3
+
+node 2440
+wall 2
+wall 3
+
+node 2441
+wall 0
+wall 1
+
+node 2442
+wall 0
+wall 3
+
+node 2443
+wall 1
+wall 2
+
+node 2444
+wall 0
+wall 2
+wall 3
+
+node 2445
+wall 1
+
+node 2446
+wall 1
+wall 3
+
+node 2447
+wall 0
+wall 3
+
+node 2448
+wall 0
+wall 1
+
+node 2449
+wall 1
+wall 3
+
+node 2450
+wall 1
+wall 3
+
+node 2451
+wall 0
+wall 2
+wall 3
+
+node 2452
+wall 0
+wall 2
+
+node 2453
+wall 2
+
+node 2454
+wall 0
+wall 2
+
+node 2455
+wall 1
+wall 2
+
+node 2456
+wall 0
+wall 2
+wall 3
+
+node 2457
+wall 2
+
+node 2458
+wall 0
+wall 2
+
+node 2459
+wall 0
+wall 2
+
+node 2460
+wall 0
+wall 2
+
+node 2461
+wall 2
+
+node 2462
+wall 0
+wall 2
+
+node 2463
+wall 0
+wall 2
+
+node 2464
+wall 0
+wall 2
+
+node 2465
+wall 0
+wall 2
+
+node 2466
+wall 1
+wall 2
+
+node 2467
+wall 0
+wall 2
+wall 3
+
+node 2468
+wall 2
+
+node 2469
+wall 0
+wall 2
+
+node 2470
+wall 0
+wall 2
+
+node 2471
+wall 1
+wall 2
+
+node 2472
+wall 0
+wall 2
+wall 3
+
+node 2473
+wall 1
+wall 2
+
+node 2474
+wall 2
+wall 3
+
+node 2475
+wall 1
+wall 2
+
+node 2476
+wall 2
+wall 3
+
+node 2477
+wall 0
+wall 2
+
+node 2478
+wall 0
+wall 2
+
+node 2479
+wall 0
+wall 2
+
+node 2480
+wall 2
+
+node 2481
+wall 0
+wall 2
+
+node 2482
+wall 1
+wall 2
+
+node 2483
+wall 0
+wall 2
+wall 3
+
+node 2484
+wall 2
+
+node 2485
+wall 1
+wall 2
+
+node 2486
+wall 2
+wall 3
+
+node 2487
+wall 0
+wall 2
+
+node 2488
+wall 0
+wall 2
+
+node 2489
+wall 2
+
+node 2490
+wall 0
+wall 1
+wall 2
+
+node 2491
+wall 2
+wall 3
+
+node 2492
+wall 2
+
+node 2493
+wall 0
+wall 2
+
+node 2494
+wall 0
+wall 2
+
+node 2495
+wall 1
+wall 2
+
+node 2496
+wall 2
+wall 3
+
+node 2497
+wall 1
+wall 2
+
+node 2498
+wall 2
+wall 3
+
+node 2499
+wall 2
+
+node 2500
+wall 1
+wall 2
